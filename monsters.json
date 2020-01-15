@@ -1,0 +1,5455 @@
+[{
+    "id": 31,
+    "nameId": "Larve Bleue"
+}, {
+    "id": 34,
+    "nameId": "Larve Verte"
+}, {
+    "id": 46,
+    "nameId": "Larve Orange"
+}, {
+    "id": 47,
+    "nameId": "Abraknyde"
+}, {
+    "id": 48,
+    "nameId": "Tournesol Sauvage"
+}, {
+    "id": 52,
+    "nameId": "Arakne"
+}, {
+    "id": 53,
+    "nameId": "Bwork Mage"
+}, {
+    "id": 54,
+    "nameId": "Chafer"
+}, {
+    "id": 55,
+    "nameId": "Gelée Bleue"
+}, {
+    "id": 56,
+    "nameId": "Gelée Menthe"
+}, {
+    "id": 57,
+    "nameId": "Gelée Fraise"
+}, {
+    "id": 58,
+    "nameId": "Gelée Royale Bleue"
+}, {
+    "id": 59,
+    "nameId": "Champ Champ"
+}, {
+    "id": 61,
+    "nameId": "Moskito"
+}, {
+    "id": 62,
+    "nameId": "Chevaucheur de Karne"
+}, {
+    "id": 63,
+    "nameId": "Crabe"
+}, {
+    "id": 64,
+    "nameId": "Wabbit"
+}, {
+    "id": 65,
+    "nameId": "Black Wabbit"
+}, {
+    "id": 68,
+    "nameId": "Black Tiwabbit"
+}, {
+    "id": 72,
+    "nameId": "Tiwabbit Kiafin"
+}, {
+    "id": 74,
+    "nameId": "Bwork Archer"
+}, {
+    "id": 75,
+    "nameId": "Dragoeuf Argile"
+}, {
+    "id": 76,
+    "nameId": "Dragoeuf Calcaire"
+}, {
+    "id": 78,
+    "nameId": "Rose Démoniaque"
+}, {
+    "id": 79,
+    "nameId": "Pissenlit Diabolique"
+}, {
+    "id": 81,
+    "nameId": "Kwak de Vent"
+}, {
+    "id": 82,
+    "nameId": "Dragoeuf Charbon"
+}, {
+    "id": 83,
+    "nameId": "Kwak de Flamme"
+}, {
+    "id": 84,
+    "nameId": "Kwak de Glace"
+}, {
+    "id": 85,
+    "nameId": "Gelée Royale Menthe"
+}, {
+    "id": 86,
+    "nameId": "Gelée Royale Fraise"
+}, {
+    "id": 87,
+    "nameId": "Dragoeuf Argile"
+}, {
+    "id": 88,
+    "nameId": "Dragoeuf Ardoise"
+}, {
+    "id": 89,
+    "nameId": "Dragoeuf Charbon"
+}, {
+    "id": 90,
+    "nameId": "Dragoeuf Calcaire"
+}, {
+    "id": 96,
+    "nameId": "Tiwabbit"
+}, {
+    "id": 97,
+    "nameId": "Wo Wabbit"
+}, {
+    "id": 98,
+    "nameId": "Tofu"
+}, {
+    "id": 99,
+    "nameId": "Grand Pa Wabbit"
+}, {
+    "id": 101,
+    "nameId": "Bouftou"
+}, {
+    "id": 102,
+    "nameId": "Mulou"
+}, {
+    "id": 103,
+    "nameId": "Prespic"
+}, {
+    "id": 104,
+    "nameId": "Sanglier"
+}, {
+    "id": 106,
+    "nameId": "Craqueleur"
+}, {
+    "id": 107,
+    "nameId": "Hell Mina"
+}, {
+    "id": 108,
+    "nameId": "Rib"
+}, {
+    "id": 110,
+    "nameId": "Chafer Invisible"
+}, {
+    "id": 111,
+    "nameId": "Tofu Maléfique"
+}, {
+    "id": 112,
+    "nameId": "Boo"
+}, {
+    "id": 113,
+    "nameId": "Dragon Cochon"
+}, {
+    "id": 118,
+    "nameId": "Mineur Sombre"
+}, {
+    "id": 119,
+    "nameId": "Forgeron Sombre"
+}, {
+    "id": 121,
+    "nameId": "Minotoror"
+}, {
+    "id": 123,
+    "nameId": "Cochon de Lait"
+}, {
+    "id": 124,
+    "nameId": "Maître Vampire"
+}, {
+    "id": 126,
+    "nameId": "Souris Grise"
+}, {
+    "id": 127,
+    "nameId": "Vampire"
+}, {
+    "id": 134,
+    "nameId": "Boufton Blanc"
+}, {
+    "id": 147,
+    "nameId": "Bouftou Royal"
+}, {
+    "id": 148,
+    "nameId": "Chef de Guerre Bouftou"
+}, {
+    "id": 149,
+    "nameId": "Boufton Noir"
+}, {
+    "id": 150,
+    "nameId": "Noeul"
+}, {
+    "id": 153,
+    "nameId": "Boulanger Sombre"
+}, {
+    "id": 154,
+    "nameId": "Kwoan"
+}, {
+    "id": 155,
+    "nameId": "Bandit du clan des Roublards"
+}, {
+    "id": 157,
+    "nameId": "Araknelle"
+}, {
+    "id": 158,
+    "nameId": "Coquille Explosive"
+}, {
+    "id": 159,
+    "nameId": "Milimulou"
+}, {
+    "id": 160,
+    "nameId": "Dopeul Féca"
+}, {
+    "id": 161,
+    "nameId": "Dopeul Osamodas"
+}, {
+    "id": 162,
+    "nameId": "Dopeul Enutrof"
+}, {
+    "id": 163,
+    "nameId": "Dopeul Sram"
+}, {
+    "id": 164,
+    "nameId": "Dopeul Xélor"
+}, {
+    "id": 165,
+    "nameId": "Dopeul Ecaflip"
+}, {
+    "id": 166,
+    "nameId": "Dopeul Eniripsa"
+}, {
+    "id": 167,
+    "nameId": "Dopeul Iop"
+}, {
+    "id": 168,
+    "nameId": "Dopeul Crâ"
+}, {
+    "id": 169,
+    "nameId": "Dopeul Sadida"
+}, {
+    "id": 170,
+    "nameId": "Dragoeuf Ardoise"
+}, {
+    "id": 171,
+    "nameId": "Dragodinde Amande Sauvage"
+}, {
+    "id": 173,
+    "nameId": "Abraknyde Ancestral"
+}, {
+    "id": 178,
+    "nameId": "Gobelin"
+}, {
+    "id": 179,
+    "nameId": "Wabbit Squelette"
+}, {
+    "id": 180,
+    "nameId": "Wa Wabbit"
+}, {
+    "id": 181,
+    "nameId": "Wobot"
+}, {
+    "id": 182,
+    "nameId": "Wabbit Gm"
+}, {
+    "id": 194,
+    "nameId": "Scarafeuille Rouge"
+}, {
+    "id": 198,
+    "nameId": "Scarafeuille Bleu"
+}, {
+    "id": 200,
+    "nameId": "Dragodinde Rousse Sauvage"
+}, {
+    "id": 207,
+    "nameId": "Citwouille"
+}, {
+    "id": 208,
+    "nameId": "Tikoko"
+}, {
+    "id": 209,
+    "nameId": "Kokoko"
+}, {
+    "id": 211,
+    "nameId": "Kanniboul Ark"
+}, {
+    "id": 212,
+    "nameId": "Kanniboul Eth"
+}, {
+    "id": 213,
+    "nameId": "Kanniboul Jav"
+}, {
+    "id": 214,
+    "nameId": "Kanniboul Sarbak"
+}, {
+    "id": 215,
+    "nameId": "Trukikol"
+}, {
+    "id": 216,
+    "nameId": "Gloutovore"
+}, {
+    "id": 217,
+    "nameId": "Fourbasse"
+}, {
+    "id": 218,
+    "nameId": "Nodkoko"
+}, {
+    "id": 220,
+    "nameId": "Tortue Rouge"
+}, {
+    "id": 221,
+    "nameId": "Tortue Bleue"
+}, {
+    "id": 222,
+    "nameId": "Tortue Verte"
+}, {
+    "id": 223,
+    "nameId": "Tortue Jaune"
+}, {
+    "id": 225,
+    "nameId": "Darkli Moon"
+}, {
+    "id": 226,
+    "nameId": "Moon"
+}, {
+    "id": 228,
+    "nameId": "Boomba"
+}, {
+    "id": 229,
+    "nameId": "Nakunbra"
+}, {
+    "id": 230,
+    "nameId": "Le Chouque"
+}, {
+    "id": 231,
+    "nameId": "Canondorf"
+}, {
+    "id": 232,
+    "nameId": "Meulou"
+}, {
+    "id": 233,
+    "nameId": "Troollaraj"
+}, {
+    "id": 235,
+    "nameId": "Kwak de Terre"
+}, {
+    "id": 236,
+    "nameId": "Piou Violet"
+}, {
+    "id": 240,
+    "nameId": "Scarafeuille Vert"
+}, {
+    "id": 241,
+    "nameId": "Scarafeuille Blanc"
+}, {
+    "id": 242,
+    "nameId": "Flammèche Feu"
+}, {
+    "id": 243,
+    "nameId": "Flammèche Eau"
+}, {
+    "id": 244,
+    "nameId": "Flammèche Terre"
+}, {
+    "id": 245,
+    "nameId": "Flammèche Air"
+}, {
+    "id": 248,
+    "nameId": "Brigandine"
+}, {
+    "id": 249,
+    "nameId": "Oni"
+}, {
+    "id": 252,
+    "nameId": "Coffre des Forgerons"
+}, {
+    "id": 253,
+    "nameId": "Abraknyde Sombre"
+}, {
+    "id": 254,
+    "nameId": "Abraknyde Vénérable"
+}, {
+    "id": 255,
+    "nameId": "Arakne des Égouts"
+}, {
+    "id": 256,
+    "nameId": "Tronknyde"
+}, {
+    "id": 257,
+    "nameId": "Chêne Mou"
+}, {
+    "id": 258,
+    "nameId": "Branche Invocatrice"
+}, {
+    "id": 259,
+    "nameId": "Arakne Majeure"
+}, {
+    "id": 260,
+    "nameId": "Branche Soignante"
+}, {
+    "id": 261,
+    "nameId": "Crocodaille"
+}, {
+    "id": 263,
+    "nameId": "Chef Crocodaille"
+}, {
+    "id": 265,
+    "nameId": "Bwak de Feu"
+}, {
+    "id": 266,
+    "nameId": "Bwak de Terre"
+}, {
+    "id": 267,
+    "nameId": "Bwak d'Air"
+}, {
+    "id": 268,
+    "nameId": "Bwak d'Eau"
+}, {
+    "id": 269,
+    "nameId": "Kwakere de Flamme"
+}, {
+    "id": 270,
+    "nameId": "Kwakere de Terre"
+}, {
+    "id": 271,
+    "nameId": "Kwakere de Glace"
+}, {
+    "id": 272,
+    "nameId": "Kwakere de Vent"
+}, {
+    "id": 273,
+    "nameId": "Blop Coco"
+}, {
+    "id": 274,
+    "nameId": "Blop Indigo"
+}, {
+    "id": 275,
+    "nameId": "Blop Griotte"
+}, {
+    "id": 276,
+    "nameId": "Blop Reinette"
+}, {
+    "id": 277,
+    "nameId": "Biblop Indigo"
+}, {
+    "id": 278,
+    "nameId": "Biblop Coco"
+}, {
+    "id": 279,
+    "nameId": "Biblop Griotte"
+}, {
+    "id": 280,
+    "nameId": "Biblop Reinette"
+}, {
+    "id": 281,
+    "nameId": "Corbac"
+}, {
+    "id": 287,
+    "nameId": "Kanigrou"
+}, {
+    "id": 288,
+    "nameId": "Serpentin"
+}, {
+    "id": 289,
+    "nameId": "Maître Corbac"
+}, {
+    "id": 290,
+    "nameId": "Chafer Lancier"
+}, {
+    "id": 291,
+    "nameId": "Chafer Archer"
+}, {
+    "id": 292,
+    "nameId": "Chafer d'Élite"
+}, {
+    "id": 293,
+    "nameId": "Craqueleur des Plaines"
+}, {
+    "id": 294,
+    "nameId": "Souris Verte"
+}, {
+    "id": 296,
+    "nameId": "Milicien"
+}, {
+    "id": 297,
+    "nameId": "Sanglier des Plaines"
+}, {
+    "id": 298,
+    "nameId": "Scorbute"
+}, {
+    "id": 299,
+    "nameId": "Croc Gland"
+}, {
+    "id": 300,
+    "nameId": "Kolérat"
+}, {
+    "id": 301,
+    "nameId": "Macien"
+}, {
+    "id": 343,
+    "nameId": "Cavalier Porkass"
+}, {
+    "id": 344,
+    "nameId": "Berger Porkass"
+}, {
+    "id": 369,
+    "nameId": "Mak Gahan"
+}, {
+    "id": 371,
+    "nameId": "Maître Bolet"
+}, {
+    "id": 372,
+    "nameId": "Guerrier"
+}, {
+    "id": 378,
+    "nameId": "Fantôme Aux Plates"
+}, {
+    "id": 379,
+    "nameId": "Fantôme Égérie"
+}, {
+    "id": 380,
+    "nameId": "Fantôme Hicide"
+}, {
+    "id": 382,
+    "nameId": "Tofu Royal"
+}, {
+    "id": 384,
+    "nameId": "Aboub"
+}, {
+    "id": 385,
+    "nameId": "Amlub"
+}, {
+    "id": 386,
+    "nameId": "Codem"
+}, {
+    "id": 387,
+    "nameId": "Gink"
+}, {
+    "id": 388,
+    "nameId": "Kirevam"
+}, {
+    "id": 389,
+    "nameId": "Let Emoliug"
+}, {
+    "id": 390,
+    "nameId": "Nebgib"
+}, {
+    "id": 391,
+    "nameId": "Nipul"
+}, {
+    "id": 392,
+    "nameId": "Osurc"
+}, {
+    "id": 393,
+    "nameId": "Susej"
+}, {
+    "id": 394,
+    "nameId": "Chevalier"
+}, {
+    "id": 396,
+    "nameId": "Chafer Fantassin"
+}, {
+    "id": 397,
+    "nameId": "Croc Gland Enragé"
+}, {
+    "id": 404,
+    "nameId": "Momie Nova"
+}, {
+    "id": 412,
+    "nameId": "Larve Saphir"
+}, {
+    "id": 413,
+    "nameId": "Larve Rubis"
+}, {
+    "id": 414,
+    "nameId": "Larve Émeraude"
+}, {
+    "id": 422,
+    "nameId": "Dopeul Dark Vlad"
+}, {
+    "id": 423,
+    "nameId": "Kralamoure Géant"
+}, {
+    "id": 424,
+    "nameId": "Tentacule Primaire"
+}, {
+    "id": 429,
+    "nameId": "Gelée Citron"
+}, {
+    "id": 430,
+    "nameId": "Gelée Royale Citron"
+}, {
+    "id": 438,
+    "nameId": "Brigandin"
+}, {
+    "id": 442,
+    "nameId": "Rat d'Égoutant"
+}, {
+    "id": 446,
+    "nameId": "Aermyne 'Braco' Scalptaras"
+}, {
+    "id": 447,
+    "nameId": "Ramane d'Égoutant"
+}, {
+    "id": 449,
+    "nameId": "Rat d'Hyoactif"
+}, {
+    "id": 450,
+    "nameId": "Gardienne des Égouts"
+}, {
+    "id": 453,
+    "nameId": "L'homme Ours"
+}, {
+    "id": 454,
+    "nameId": "Le Ours"
+}, {
+    "id": 455,
+    "nameId": "Dopeul Sacrieur"
+}, {
+    "id": 456,
+    "nameId": "Larve Dorée"
+}, {
+    "id": 457,
+    "nameId": "Shin Larve"
+}, {
+    "id": 459,
+    "nameId": "Padgref Demoël"
+}, {
+    "id": 460,
+    "nameId": "Frakacia Leukocytine"
+}, {
+    "id": 462,
+    "nameId": "Ogivol Scalarcin"
+}, {
+    "id": 463,
+    "nameId": "Fouduglen l'Écureuil"
+}, {
+    "id": 464,
+    "nameId": "Brumen Tinctorias"
+}, {
+    "id": 465,
+    "nameId": "Scélérat Strubien"
+}, {
+    "id": 466,
+    "nameId": "Bandit Manchot"
+}, {
+    "id": 467,
+    "nameId": "Rose Obscure"
+}, {
+    "id": 473,
+    "nameId": "Tofu Malade"
+}, {
+    "id": 474,
+    "nameId": "Arakne Malade"
+}, {
+    "id": 475,
+    "nameId": "Milirat Strubien"
+}, {
+    "id": 478,
+    "nameId": "Bworker"
+}, {
+    "id": 479,
+    "nameId": "Mama Bwork"
+}, {
+    "id": 480,
+    "nameId": "Sousouris"
+}, {
+    "id": 481,
+    "nameId": "Qil Bil"
+}, {
+    "id": 483,
+    "nameId": "Craqueboule"
+}, {
+    "id": 484,
+    "nameId": "Bwork Élémental de Feu"
+}, {
+    "id": 485,
+    "nameId": "Bwork Élémental d'Eau"
+}, {
+    "id": 486,
+    "nameId": "Bwork Élémental d'Air"
+}, {
+    "id": 487,
+    "nameId": "Bwork Élémental de Terre"
+}, {
+    "id": 488,
+    "nameId": "Cybwork"
+}, {
+    "id": 489,
+    "nameId": "Piou Rouge"
+}, {
+    "id": 490,
+    "nameId": "Piou Vert"
+}, {
+    "id": 491,
+    "nameId": "Piou Bleu"
+}, {
+    "id": 492,
+    "nameId": "Piou Rose"
+}, {
+    "id": 493,
+    "nameId": "Piou Jaune"
+}, {
+    "id": 495,
+    "nameId": "La Ouassingue"
+}, {
+    "id": 496,
+    "nameId": "Le Ouassingue"
+}, {
+    "id": 498,
+    "nameId": "Gargrouille"
+}, {
+    "id": 514,
+    "nameId": "Maitre Pandawushu"
+}, {
+    "id": 515,
+    "nameId": "Bulbiflore"
+}, {
+    "id": 517,
+    "nameId": "Pandit"
+}, {
+    "id": 518,
+    "nameId": "Bulbuisson"
+}, {
+    "id": 519,
+    "nameId": "Bulbig"
+}, {
+    "id": 520,
+    "nameId": "Araknawa"
+}, {
+    "id": 522,
+    "nameId": "Cooleuvre"
+}, {
+    "id": 523,
+    "nameId": "Kitsou Nakwa"
+}, {
+    "id": 524,
+    "nameId": "Bambouto"
+}, {
+    "id": 525,
+    "nameId": "Braconnier"
+}, {
+    "id": 527,
+    "nameId": "Yokai Firefoux"
+}, {
+    "id": 528,
+    "nameId": "Soryo Firefoux"
+}, {
+    "id": 529,
+    "nameId": "Maho Firefoux"
+}, {
+    "id": 530,
+    "nameId": "Kitsou Nere"
+}, {
+    "id": 531,
+    "nameId": "Kitsou Nae"
+}, {
+    "id": 532,
+    "nameId": "Kitsou Nufeu"
+}, {
+    "id": 534,
+    "nameId": "Pandawa Ivre"
+}, {
+    "id": 535,
+    "nameId": "Léopardo"
+}, {
+    "id": 537,
+    "nameId": "Pandore"
+}, {
+    "id": 546,
+    "nameId": "Bambouto Sacré"
+}, {
+    "id": 547,
+    "nameId": "Pandalette Ivre"
+}, {
+    "id": 548,
+    "nameId": "Bulbambou"
+}, {
+    "id": 549,
+    "nameId": "Pandule"
+}, {
+    "id": 550,
+    "nameId": "Rok Gnorok"
+}, {
+    "id": 552,
+    "nameId": "Musha L'Oni"
+}, {
+    "id": 554,
+    "nameId": "Marzwel le Gobelin"
+}, {
+    "id": 555,
+    "nameId": "Zatoïshwan"
+}, {
+    "id": 557,
+    "nameId": "Disciple Pandawushu Air"
+}, {
+    "id": 558,
+    "nameId": "Disciple Pandawushu Eau"
+}, {
+    "id": 559,
+    "nameId": "Disciple Pandawushu Feu"
+}, {
+    "id": 560,
+    "nameId": "Disciple Pandawushu Terre"
+}, {
+    "id": 561,
+    "nameId": "Disciple Pandawushu"
+}, {
+    "id": 566,
+    "nameId": "Pandikaze"
+}, {
+    "id": 568,
+    "nameId": "Tanukouï San"
+}, {
+    "id": 569,
+    "nameId": "Tanuki Chan"
+}, {
+    "id": 570,
+    "nameId": "Idemas"
+}, {
+    "id": 571,
+    "nameId": "Tanuki Chan"
+}, {
+    "id": 572,
+    "nameId": "Tanuki Chan"
+}, {
+    "id": 574,
+    "nameId": "Tanuki Chan"
+}, {
+    "id": 577,
+    "nameId": "Tanuki Chan"
+}, {
+    "id": 578,
+    "nameId": "Pandikaze Aérien"
+}, {
+    "id": 579,
+    "nameId": "Pandikaze Vertige"
+}, {
+    "id": 580,
+    "nameId": "Pandikwakaze"
+}, {
+    "id": 581,
+    "nameId": "Pandulkaze"
+}, {
+    "id": 582,
+    "nameId": "Touchparak"
+}, {
+    "id": 583,
+    "nameId": "Fantôme Pandikaze"
+}, {
+    "id": 584,
+    "nameId": "Fantôme Maho Firefoux"
+}, {
+    "id": 585,
+    "nameId": "Fantôme Soryo Firefoux"
+}, {
+    "id": 586,
+    "nameId": "Fantôme Léopardo"
+}, {
+    "id": 587,
+    "nameId": "Fantôme Yokai Firefoux"
+}, {
+    "id": 588,
+    "nameId": "Fantôme Tanukouï San"
+}, {
+    "id": 589,
+    "nameId": "Fantôme Pandule"
+}, {
+    "id": 590,
+    "nameId": "Fantôme Tanuki Chan"
+}, {
+    "id": 594,
+    "nameId": "Fantôme Tanuki Chan"
+}, {
+    "id": 595,
+    "nameId": "Fantôme Tanuki Chan"
+}, {
+    "id": 596,
+    "nameId": "Fantôme Tanuki Chan"
+}, {
+    "id": 597,
+    "nameId": "Fantôme Pandore"
+}, {
+    "id": 598,
+    "nameId": "Fantôme Tanuki Chan"
+}, {
+    "id": 599,
+    "nameId": "Zilla"
+}, {
+    "id": 600,
+    "nameId": "Don Duss Ang"
+}, {
+    "id": 601,
+    "nameId": "Don Dorgan"
+}, {
+    "id": 603,
+    "nameId": "Cochon de Farle"
+}, {
+    "id": 605,
+    "nameId": "Péki Péki"
+}, {
+    "id": 606,
+    "nameId": "Bouate de Pandore"
+}, {
+    "id": 607,
+    "nameId": "Guerrier Pandikaze"
+}, {
+    "id": 609,
+    "nameId": "Pandamani"
+}, {
+    "id": 611,
+    "nameId": "Bouate de Fantôme Pandore"
+}, {
+    "id": 612,
+    "nameId": "Maître Pandore"
+}, {
+    "id": 649,
+    "nameId": "Coffre Sombre"
+}, {
+    "id": 650,
+    "nameId": "Abrakne"
+}, {
+    "id": 651,
+    "nameId": "Abrakne Sombre"
+}, {
+    "id": 652,
+    "nameId": "Champa Vert"
+}, {
+    "id": 653,
+    "nameId": "Champa Rouge"
+}, {
+    "id": 654,
+    "nameId": "Champa Bleu"
+}, {
+    "id": 655,
+    "nameId": "Champa Marron"
+}, {
+    "id": 666,
+    "nameId": "Dragodinde Dorée Sauvage"
+}, {
+    "id": 668,
+    "nameId": "Gamino"
+}, {
+    "id": 669,
+    "nameId": "Craqueleur Légendaire"
+}, {
+    "id": 670,
+    "nameId": "Koulosse"
+}, {
+    "id": 671,
+    "nameId": "Bouftou des Cavernes"
+}, {
+    "id": 672,
+    "nameId": "Boufcoul"
+}, {
+    "id": 673,
+    "nameId": "Émeraude"
+}, {
+    "id": 674,
+    "nameId": "Poupée Émeraude"
+}, {
+    "id": 675,
+    "nameId": "Saphira"
+}, {
+    "id": 676,
+    "nameId": "Poupée Affamée"
+}, {
+    "id": 677,
+    "nameId": "Rubise"
+}, {
+    "id": 678,
+    "nameId": "Totem Motivant"
+}, {
+    "id": 679,
+    "nameId": "Totem Explosif"
+}, {
+    "id": 680,
+    "nameId": "Totem Soignant"
+}, {
+    "id": 681,
+    "nameId": "Diamantine"
+}, {
+    "id": 682,
+    "nameId": "Poupée Mortelle"
+}, {
+    "id": 744,
+    "nameId": "Koalak Sanguin"
+}, {
+    "id": 745,
+    "nameId": "Warko Violet"
+}, {
+    "id": 746,
+    "nameId": "Warko Marron"
+}, {
+    "id": 747,
+    "nameId": "Dok Alako"
+}, {
+    "id": 748,
+    "nameId": "Koalak Immature"
+}, {
+    "id": 749,
+    "nameId": "Guerrier Koalak"
+}, {
+    "id": 751,
+    "nameId": "Koalak Indigo"
+}, {
+    "id": 752,
+    "nameId": "Koalak Coco"
+}, {
+    "id": 753,
+    "nameId": "Koalak Griotte"
+}, {
+    "id": 754,
+    "nameId": "Koalak Reinette"
+}, {
+    "id": 755,
+    "nameId": "Mama Koalak"
+}, {
+    "id": 756,
+    "nameId": "Koalak Farouche"
+}, {
+    "id": 758,
+    "nameId": "Maître Koalak"
+}, {
+    "id": 759,
+    "nameId": "Chevaucheur Koalak"
+}, {
+    "id": 760,
+    "nameId": "Momie Koalak"
+}, {
+    "id": 761,
+    "nameId": "Fossoyeur Koalak"
+}, {
+    "id": 762,
+    "nameId": "Workette"
+}, {
+    "id": 763,
+    "nameId": "Drakoalak"
+}, {
+    "id": 780,
+    "nameId": "Skeunk"
+}, {
+    "id": 783,
+    "nameId": "Fauchalak"
+}, {
+    "id": 784,
+    "nameId": "Piralak"
+}, {
+    "id": 785,
+    "nameId": "Koalak Forestier"
+}, {
+    "id": 786,
+    "nameId": "Pékeualak"
+}, {
+    "id": 788,
+    "nameId": "Fantôme d'Aventurier Ardent"
+}, {
+    "id": 789,
+    "nameId": "Fantôme d'Aventurier Arepo"
+}, {
+    "id": 790,
+    "nameId": "Fantôme d'Aventurier Brave"
+}, {
+    "id": 791,
+    "nameId": "Trooll Apprivoisé"
+}, {
+    "id": 792,
+    "nameId": "Bworkette"
+}, {
+    "id": 793,
+    "nameId": "Bouftou d'Halouine"
+}, {
+    "id": 794,
+    "nameId": "Tofu d'Halouine"
+}, {
+    "id": 795,
+    "nameId": "Scarafeuille Noir"
+}, {
+    "id": 796,
+    "nameId": "Tofu Noir"
+}, {
+    "id": 797,
+    "nameId": "Scarabosse Doré"
+}, {
+    "id": 798,
+    "nameId": "Scarafeuille Immature"
+}, {
+    "id": 799,
+    "nameId": "Tournesol Affamé"
+}, {
+    "id": 800,
+    "nameId": "Batofu"
+}, {
+    "id": 802,
+    "nameId": "Bomberfu"
+}, {
+    "id": 804,
+    "nameId": "Tofoune"
+}, {
+    "id": 805,
+    "nameId": "Tofu Mutant"
+}, {
+    "id": 806,
+    "nameId": "Tofukaz"
+}, {
+    "id": 807,
+    "nameId": "Tofuzmo"
+}, {
+    "id": 808,
+    "nameId": "Tofu Ventripotent"
+}, {
+    "id": 818,
+    "nameId": "Corbac Apprivoisé"
+}, {
+    "id": 819,
+    "nameId": "Buveur"
+}, {
+    "id": 820,
+    "nameId": "Renarbo"
+}, {
+    "id": 823,
+    "nameId": "Rono le Renarbo"
+}, {
+    "id": 824,
+    "nameId": "Horace le Corbac Apprivoisé"
+}, {
+    "id": 825,
+    "nameId": "Kapotie le Buveur"
+}, {
+    "id": 826,
+    "nameId": "Kirboule l'Érodé"
+}, {
+    "id": 827,
+    "nameId": "Minotot"
+}, {
+    "id": 828,
+    "nameId": "Dégelée"
+}, {
+    "id": 829,
+    "nameId": "Serpiplume"
+}, {
+    "id": 830,
+    "nameId": "Scaratos"
+}, {
+    "id": 831,
+    "nameId": "Mominotor"
+}, {
+    "id": 832,
+    "nameId": "Déminoboule"
+}, {
+    "id": 834,
+    "nameId": "Minoskito"
+}, {
+    "id": 835,
+    "nameId": "Mandrine"
+}, {
+    "id": 836,
+    "nameId": "Kraméléhon"
+}, {
+    "id": 839,
+    "nameId": "Abominable Yiti des Neiges"
+}, {
+    "id": 840,
+    "nameId": "Kanigrou Hivernal"
+}, {
+    "id": 841,
+    "nameId": "Tofu Givré"
+}, {
+    "id": 845,
+    "nameId": "Bonhomme de Neige"
+}, {
+    "id": 846,
+    "nameId": "Dé Gelé"
+}, {
+    "id": 847,
+    "nameId": "Tofu Hiberné"
+}, {
+    "id": 849,
+    "nameId": "Kipik"
+}, {
+    "id": 853,
+    "nameId": "Dragnarok"
+}, {
+    "id": 854,
+    "nameId": "Crocabulia"
+}, {
+    "id": 855,
+    "nameId": "Dragueuse"
+}, {
+    "id": 858,
+    "nameId": "Dragoss Charbon"
+}, {
+    "id": 862,
+    "nameId": "Draguaindrop"
+}, {
+    "id": 864,
+    "nameId": "Sakai Firefoux"
+}, {
+    "id": 867,
+    "nameId": "Bouboule de Neige"
+}, {
+    "id": 868,
+    "nameId": "Tofu Enneigé"
+}, {
+    "id": 869,
+    "nameId": "Craqueleur des Glaces"
+}, {
+    "id": 870,
+    "nameId": "Ver Glacé"
+}, {
+    "id": 871,
+    "nameId": "Ver Getur"
+}, {
+    "id": 872,
+    "nameId": "Papa Nowel"
+}, {
+    "id": 874,
+    "nameId": "Demi Papa Nowel"
+}, {
+    "id": 876,
+    "nameId": "Bwork"
+}, {
+    "id": 878,
+    "nameId": "Dragoss Calcaire"
+}, {
+    "id": 879,
+    "nameId": "Dragoss Argile"
+}, {
+    "id": 880,
+    "nameId": "Kol'nenfan"
+}, {
+    "id": 881,
+    "nameId": "Koup'nenfan"
+}, {
+    "id": 882,
+    "nameId": "Pet'nenfan"
+}, {
+    "id": 887,
+    "nameId": "Cadob'Onux"
+}, {
+    "id": 888,
+    "nameId": "Cadob'Omb"
+}, {
+    "id": 889,
+    "nameId": "Cadob'Imbo"
+}, {
+    "id": 890,
+    "nameId": "Bébé Cadob"
+}, {
+    "id": 891,
+    "nameId": "Mini Nuit'"
+}, {
+    "id": 896,
+    "nameId": "Kitsou Nakwatus"
+}, {
+    "id": 899,
+    "nameId": "Black Tiwabbitus"
+}, {
+    "id": 901,
+    "nameId": "Kwakus"
+}, {
+    "id": 905,
+    "nameId": "Dragoss Ardoise"
+}, {
+    "id": 906,
+    "nameId": "Cadob'"
+}, {
+    "id": 907,
+    "nameId": "Minimini Nuit'"
+}, {
+    "id": 917,
+    "nameId": "Araknotron"
+}, {
+    "id": 919,
+    "nameId": "Abraknyde Malade"
+}, {
+    "id": 920,
+    "nameId": "Pichon Orange"
+}, {
+    "id": 921,
+    "nameId": "Pichon Bleu"
+}, {
+    "id": 922,
+    "nameId": "Pichon Blanc"
+}, {
+    "id": 923,
+    "nameId": "Pichon Vert"
+}, {
+    "id": 924,
+    "nameId": "Pichon Kloune"
+}, {
+    "id": 926,
+    "nameId": "Raul Mops"
+}, {
+    "id": 927,
+    "nameId": "Étoile de la Mer d'Asse"
+}, {
+    "id": 928,
+    "nameId": "Mob l'Éponge"
+}, {
+    "id": 932,
+    "nameId": "Fantôme Apero"
+}, {
+    "id": 935,
+    "nameId": "Rat de Marais"
+}, {
+    "id": 936,
+    "nameId": "Rat Batteur"
+}, {
+    "id": 937,
+    "nameId": "Rat Klure"
+}, {
+    "id": 938,
+    "nameId": "Rat Basher"
+}, {
+    "id": 939,
+    "nameId": "Rat Noir"
+}, {
+    "id": 940,
+    "nameId": "Rat Blanc"
+}, {
+    "id": 941,
+    "nameId": "Rat Bajoie"
+}, {
+    "id": 942,
+    "nameId": "Rat Croc"
+}, {
+    "id": 943,
+    "nameId": "Sphincter Cell"
+}, {
+    "id": 944,
+    "nameId": "Raphaela"
+}, {
+    "id": 945,
+    "nameId": "Donatella"
+}, {
+    "id": 946,
+    "nameId": "Michelangela"
+}, {
+    "id": 947,
+    "nameId": "Leonardawa"
+}, {
+    "id": 954,
+    "nameId": "Moumoule"
+}, {
+    "id": 970,
+    "nameId": "Tofu Chimérique"
+}, {
+    "id": 971,
+    "nameId": "Bouftou Nuageux"
+}, {
+    "id": 972,
+    "nameId": "Boufton Pâlichon"
+}, {
+    "id": 973,
+    "nameId": "Boufton Orageux"
+}, {
+    "id": 979,
+    "nameId": "Pissenlit Miroitant"
+}, {
+    "id": 980,
+    "nameId": "Rose Vaporeuse"
+}, {
+    "id": 981,
+    "nameId": "Tournesol Nébuleux"
+}, {
+    "id": 982,
+    "nameId": "Chakrobat"
+}, {
+    "id": 984,
+    "nameId": "Bouftor Éthéré"
+}, {
+    "id": 990,
+    "nameId": "Araknotron Irascible"
+}, {
+    "id": 991,
+    "nameId": "Abraknyde Sombre Irascible"
+}, {
+    "id": 992,
+    "nameId": "Abrakne Sombre Irascible"
+}, {
+    "id": 1003,
+    "nameId": "Epouvantail d'entraînement"
+}, {
+    "id": 1011,
+    "nameId": "Maman Tofu obèse"
+}, {
+    "id": 1012,
+    "nameId": "Tofu obèse Gavé"
+}, {
+    "id": 1013,
+    "nameId": "Papa Tofu obèse"
+}, {
+    "id": 1016,
+    "nameId": "Disciple Pandawushu"
+}, {
+    "id": 1019,
+    "nameId": "Bitouf des Plaines"
+}, {
+    "id": 1020,
+    "nameId": "Bitouf Aérien"
+}, {
+    "id": 1022,
+    "nameId": "Corailleur"
+}, {
+    "id": 1025,
+    "nameId": "Craqueleur Poli"
+}, {
+    "id": 1026,
+    "nameId": "Craqueboule Poli"
+}, {
+    "id": 1027,
+    "nameId": "Corailleur Magistral"
+}, {
+    "id": 1029,
+    "nameId": "Floribonde"
+}, {
+    "id": 1041,
+    "nameId": "Bitouf Sombre"
+}, {
+    "id": 1043,
+    "nameId": "Poolay"
+}, {
+    "id": 1044,
+    "nameId": "Kaskargo"
+}, {
+    "id": 1045,
+    "nameId": "Kimbo"
+}, {
+    "id": 1046,
+    "nameId": "Meupette"
+}, {
+    "id": 1047,
+    "nameId": "Abrakleur Clair"
+}, {
+    "id": 1048,
+    "nameId": "Sparo"
+}, {
+    "id": 1049,
+    "nameId": "Barbroussa"
+}, {
+    "id": 1050,
+    "nameId": "Le Flib"
+}, {
+    "id": 1051,
+    "nameId": "Gourlo le Terrible"
+}, {
+    "id": 1052,
+    "nameId": "Maître Zoth"
+}, {
+    "id": 1053,
+    "nameId": "Gamine Zoth"
+}, {
+    "id": 1054,
+    "nameId": "Guerrier Zoth"
+}, {
+    "id": 1055,
+    "nameId": "Disciple Zoth"
+}, {
+    "id": 1056,
+    "nameId": "Sergent Zoth"
+}, {
+    "id": 1057,
+    "nameId": "Roissingue"
+}, {
+    "id": 1058,
+    "nameId": "Tourbassingue"
+}, {
+    "id": 1059,
+    "nameId": "Bourbassingue"
+}, {
+    "id": 1060,
+    "nameId": "Crustorail Kouraçao"
+}, {
+    "id": 1061,
+    "nameId": "Crustorail Malibout"
+}, {
+    "id": 1062,
+    "nameId": "Crustorail Passaoh"
+}, {
+    "id": 1063,
+    "nameId": "Crustorail Morito"
+}, {
+    "id": 1064,
+    "nameId": "Palmifleur Kouraçao"
+}, {
+    "id": 1065,
+    "nameId": "Palmifleur Malibout"
+}, {
+    "id": 1066,
+    "nameId": "Palmifleur Passaoh"
+}, {
+    "id": 1067,
+    "nameId": "Palmifleur Morito"
+}, {
+    "id": 1068,
+    "nameId": "Mufafah"
+}, {
+    "id": 1069,
+    "nameId": "Kido"
+}, {
+    "id": 1070,
+    "nameId": "Kilibriss"
+}, {
+    "id": 1071,
+    "nameId": "Silf le Rasboul Majeur"
+}, {
+    "id": 1072,
+    "nameId": "Tynril Consterné"
+}, {
+    "id": 1073,
+    "nameId": "Brouture"
+}, {
+    "id": 1074,
+    "nameId": "Nerbe"
+}, {
+    "id": 1075,
+    "nameId": "Fécorce"
+}, {
+    "id": 1076,
+    "nameId": "Chiendent"
+}, {
+    "id": 1077,
+    "nameId": "Abrakleur Sombre"
+}, {
+    "id": 1078,
+    "nameId": "Coffre Maudit du Flib"
+}, {
+    "id": 1080,
+    "nameId": "Tonneau Pirate"
+}, {
+    "id": 1082,
+    "nameId": "Boomba Shika"
+}, {
+    "id": 1084,
+    "nameId": "Rasboul Mineur"
+}, {
+    "id": 1085,
+    "nameId": "Tynril Déconcerté"
+}, {
+    "id": 1086,
+    "nameId": "Tynril Perfide"
+}, {
+    "id": 1087,
+    "nameId": "Tynril Ahuri"
+}, {
+    "id": 1088,
+    "nameId": "Disciple du Kimbo"
+}, {
+    "id": 1090,
+    "nameId": "Tentacule Quaternaire"
+}, {
+    "id": 1091,
+    "nameId": "Tentacule Tertiaire"
+}, {
+    "id": 1092,
+    "nameId": "Tentacule Secondaire"
+}, {
+    "id": 1096,
+    "nameId": "Le Ouassingue Entourbé"
+}, {
+    "id": 1153,
+    "nameId": "Tromperelle"
+}, {
+    "id": 1154,
+    "nameId": "Champaknyde"
+}, {
+    "id": 1155,
+    "nameId": "Champodonte"
+}, {
+    "id": 1156,
+    "nameId": "Champmane"
+}, {
+    "id": 1157,
+    "nameId": "Champbis"
+}, {
+    "id": 1158,
+    "nameId": "Champ à Gnons"
+}, {
+    "id": 1159,
+    "nameId": "Ougah"
+}, {
+    "id": 1178,
+    "nameId": "Champa Explosif"
+}, {
+    "id": 1179,
+    "nameId": "Sapik"
+}, {
+    "id": 1180,
+    "nameId": "Pokipik"
+}, {
+    "id": 1181,
+    "nameId": "Gloutoblop"
+}, {
+    "id": 1182,
+    "nameId": "Blopignon"
+}, {
+    "id": 1183,
+    "nameId": "Tronkoblop"
+}, {
+    "id": 1184,
+    "nameId": "Blop Coco Royal"
+}, {
+    "id": 1185,
+    "nameId": "Blop Griotte Royal"
+}, {
+    "id": 1186,
+    "nameId": "Blop Indigo Royal"
+}, {
+    "id": 1187,
+    "nameId": "Blop Reinette Royal"
+}, {
+    "id": 1188,
+    "nameId": "Blop Multicolore Royal"
+}, {
+    "id": 1189,
+    "nameId": "Marionnette du Dark Vlad"
+}, {
+    "id": 1190,
+    "nameId": "Marionnette du Bouftou Royal"
+}, {
+    "id": 1191,
+    "nameId": "Marionnette du Dragon Cochon"
+}, {
+    "id": 1192,
+    "nameId": "Marionnette du Minotoror"
+}, {
+    "id": 1193,
+    "nameId": "Marionnette du Mulou meulé"
+}, {
+    "id": 1194,
+    "nameId": "Père Fwetar"
+}, {
+    "id": 1229,
+    "nameId": "Boomba saoulé"
+}, {
+    "id": 1230,
+    "nameId": "Canondorf débutant"
+}, {
+    "id": 1231,
+    "nameId": "Nakunbra esseulé"
+}, {
+    "id": 1232,
+    "nameId": "Ballotin le Bouftou"
+}, {
+    "id": 2270,
+    "nameId": "Piradain le Pingre"
+}, {
+    "id": 2271,
+    "nameId": "Pékeutar le Tireur"
+}, {
+    "id": 2272,
+    "nameId": "Pichakoté le Dégoutant"
+}, {
+    "id": 2273,
+    "nameId": "Ratlbol l'Aigri"
+}, {
+    "id": 2275,
+    "nameId": "Ratéhaifaim le Professeur"
+}, {
+    "id": 2276,
+    "nameId": "Ribibi le Cher"
+}, {
+    "id": 2277,
+    "nameId": "Rostensyl la Cuisinière"
+}, {
+    "id": 2278,
+    "nameId": "Soryonara le Poli"
+}, {
+    "id": 2279,
+    "nameId": "Sampi l'Eternel"
+}, {
+    "id": 2280,
+    "nameId": "Scapé l'Epée"
+}, {
+    "id": 2281,
+    "nameId": "Scarfayss le Balafré"
+}, {
+    "id": 2282,
+    "nameId": "Scarouarze l'Epopée"
+}, {
+    "id": 2283,
+    "nameId": "Scaramel le Fondant"
+}, {
+    "id": 2285,
+    "nameId": "Scorpitène l'Enflammé"
+}, {
+    "id": 2286,
+    "nameId": "Serpistol l'Illustre"
+}, {
+    "id": 2287,
+    "nameId": "Serpistule le Purulent"
+}, {
+    "id": 2289,
+    "nameId": "Susbewl l'Hypocrite"
+}, {
+    "id": 2292,
+    "nameId": "Tikosto le Mousse"
+}, {
+    "id": 2293,
+    "nameId": "Tiwalpé le Dévêtu"
+}, {
+    "id": 2294,
+    "nameId": "Tiwoflan le Lâche"
+}, {
+    "id": 2295,
+    "nameId": "Tortenssia la Fleurie"
+}, {
+    "id": 2296,
+    "nameId": "Tortilleur le Coulé"
+}, {
+    "id": 2297,
+    "nameId": "Tortorak le Cornu"
+}, {
+    "id": 2298,
+    "nameId": "Torthur la Lutte"
+}, {
+    "id": 2299,
+    "nameId": "Tronkoneuz la Tranchante"
+}, {
+    "id": 2300,
+    "nameId": "Trooyé l'Oxydé"
+}, {
+    "id": 2301,
+    "nameId": "Trukul le Lent"
+}, {
+    "id": 2302,
+    "nameId": "Vampunor le Glacial"
+}, {
+    "id": 2303,
+    "nameId": "YokaiKoral le Duel"
+}, {
+    "id": 2304,
+    "nameId": "Wabbitud le Constant"
+}, {
+    "id": 2305,
+    "nameId": "Watdogue le Bien Nommé"
+}, {
+    "id": 2306,
+    "nameId": "Warkolad l'Etreinte"
+}, {
+    "id": 2307,
+    "nameId": "Wara l'Amer"
+}, {
+    "id": 2308,
+    "nameId": "Wokènrôl le Danseur"
+}, {
+    "id": 2309,
+    "nameId": "Abrakroc l'édenté"
+}, {
+    "id": 2310,
+    "nameId": "Arakule la Revancharde"
+}, {
+    "id": 2311,
+    "nameId": "Arabord la Cruche"
+}, {
+    "id": 2312,
+    "nameId": "Arachitik la Souffreteuse"
+}, {
+    "id": 2313,
+    "nameId": "Bandapar l'Exclu"
+}, {
+    "id": 2314,
+    "nameId": "Bandson le Tonitruant"
+}, {
+    "id": 2315,
+    "nameId": "Boudalf le Blanc"
+}, {
+    "id": 2316,
+    "nameId": "Boulgourvil le Lointain"
+}, {
+    "id": 2317,
+    "nameId": "Boufdégou le Refoulant"
+}, {
+    "id": 2318,
+    "nameId": "Boudur le Raide"
+}, {
+    "id": 2319,
+    "nameId": "Chafemal le Bagarreur"
+}, {
+    "id": 2320,
+    "nameId": "Chafmarcel le Fêtard"
+}, {
+    "id": 2321,
+    "nameId": "Chafalfer l'Optimiste"
+}, {
+    "id": 2322,
+    "nameId": "Chalan le Commerçant"
+}, {
+    "id": 2323,
+    "nameId": "Chamchie le Difficile"
+}, {
+    "id": 2324,
+    "nameId": "Bouflet le Puéril"
+}, {
+    "id": 2325,
+    "nameId": "Chonstip la Passagère"
+}, {
+    "id": 2326,
+    "nameId": "Craquetuss le Piquant"
+}, {
+    "id": 2327,
+    "nameId": "Craraboss le Féérique"
+}, {
+    "id": 2328,
+    "nameId": "Forboyar l'Enigmatique"
+}, {
+    "id": 2329,
+    "nameId": "Kitsoupierre le Récipient"
+}, {
+    "id": 2331,
+    "nameId": "Larvapstrè le Subjectif"
+}, {
+    "id": 2332,
+    "nameId": "Larchimaide la Poussée"
+}, {
+    "id": 2333,
+    "nameId": "Milipatte la Griffe"
+}, {
+    "id": 2334,
+    "nameId": "Milipussien le Géant"
+}, {
+    "id": 2335,
+    "nameId": "Minsinistre l'Elu"
+}, {
+    "id": 2336,
+    "nameId": "Mosketère le Dévoué"
+}, {
+    "id": 2337,
+    "nameId": "Muloufok l'Hilarant"
+}, {
+    "id": 2338,
+    "nameId": "Pichdourse le Puissant"
+}, {
+    "id": 2339,
+    "nameId": "Larvomatik le Propre"
+}, {
+    "id": 2340,
+    "nameId": "Pichtoire l'Erudit"
+}, {
+    "id": 2341,
+    "nameId": "Pioustone le Problème"
+}, {
+    "id": 2342,
+    "nameId": "Pioulbrineur le Mercenaire"
+}, {
+    "id": 2343,
+    "nameId": "Pioufe la Maquillée"
+}, {
+    "id": 2344,
+    "nameId": "Pioulette la Coquine"
+}, {
+    "id": 2345,
+    "nameId": "Pioukas la Plante"
+}, {
+    "id": 2346,
+    "nameId": "Pichduitre le Totem"
+}, {
+    "id": 2347,
+    "nameId": "Pioussokrim le Délétère"
+}, {
+    "id": 2348,
+    "nameId": "Pissdane l'Insipide"
+}, {
+    "id": 2349,
+    "nameId": "Preskapwal le Tendancieux"
+}, {
+    "id": 2350,
+    "nameId": "Radoutable le Craint"
+}, {
+    "id": 2351,
+    "nameId": "Rauligo le Sale"
+}, {
+    "id": 2352,
+    "nameId": "Roz la Magicienne"
+}, {
+    "id": 2353,
+    "nameId": "Sangria le Fruité"
+}, {
+    "id": 2354,
+    "nameId": "Sourizoto le Collant"
+}, {
+    "id": 2355,
+    "nameId": "Tofuldebeu l'Explosif"
+}, {
+    "id": 2356,
+    "nameId": "Tofurapin le Pétri"
+}, {
+    "id": 2357,
+    "nameId": "Tofumanchou l'Empereur"
+}, {
+    "id": 2358,
+    "nameId": "Tour le Vice"
+}, {
+    "id": 2359,
+    "nameId": "Maître Onom le Régulier"
+}, {
+    "id": 2360,
+    "nameId": "Ecorfé la Vive"
+}, {
+    "id": 2361,
+    "nameId": "Tourbiket le Virevoletant"
+}, {
+    "id": 2363,
+    "nameId": "Bouliver le Géant"
+}, {
+    "id": 2367,
+    "nameId": "Dragstore le Généraliste"
+}, {
+    "id": 2368,
+    "nameId": "Dragtula l'Ancien"
+}, {
+    "id": 2369,
+    "nameId": "Dragstik le Frustre"
+}, {
+    "id": 2370,
+    "nameId": "Fansissla l'Âne"
+}, {
+    "id": 2371,
+    "nameId": "Geloliaine l'Aérien"
+}, {
+    "id": 2372,
+    "nameId": "Dragmoclaiss le Fataliste"
+}, {
+    "id": 2373,
+    "nameId": "Champoul l'Illuminé"
+}, {
+    "id": 2374,
+    "nameId": "Fanhopruno le Gourmet"
+}, {
+    "id": 2376,
+    "nameId": "Gelaviv le Glaçon"
+}, {
+    "id": 2377,
+    "nameId": "Dragstayr le Fonceur"
+}, {
+    "id": 2378,
+    "nameId": "Cromikay le Néophyte"
+}, {
+    "id": 2379,
+    "nameId": "Draglida la Disparue"
+}, {
+    "id": 2381,
+    "nameId": "Abrinos le Clair"
+}, {
+    "id": 2382,
+    "nameId": "Toutouf le Velu"
+}, {
+    "id": 2383,
+    "nameId": "Poolopo la Traditionnelle"
+}, {
+    "id": 2384,
+    "nameId": "Aboudbra le Porteur"
+}, {
+    "id": 2385,
+    "nameId": "Abrakadnuzar"
+}, {
+    "id": 2386,
+    "nameId": "Abraklette le Fondant"
+}, {
+    "id": 2388,
+    "nameId": "Abrakanette l'Encapsulé"
+}, {
+    "id": 2389,
+    "nameId": "Abrakildas le Vénérable"
+}, {
+    "id": 2391,
+    "nameId": "Ameur la Laide"
+}, {
+    "id": 2392,
+    "nameId": "Arakozette l'Intrépide"
+}, {
+    "id": 2393,
+    "nameId": "Araknay la Galopante"
+}, {
+    "id": 2396,
+    "nameId": "Bistou le Quêteur"
+}, {
+    "id": 2397,
+    "nameId": "Porfavor le Quémandeur"
+}, {
+    "id": 2398,
+    "nameId": "Bambono le Divin"
+}, {
+    "id": 2399,
+    "nameId": "Bilvoezé le Bonimenteur"
+}, {
+    "id": 2400,
+    "nameId": "Bi le Partageur"
+}, {
+    "id": 2401,
+    "nameId": "Bistou le Rieur"
+}, {
+    "id": 2402,
+    "nameId": "Tiwa'Missou le Gateux"
+}, {
+    "id": 2403,
+    "nameId": "Wagnagnah le Sanglant"
+}, {
+    "id": 2404,
+    "nameId": "Blorie L'assourdissante"
+}, {
+    "id": 2405,
+    "nameId": "Blordur l'Infect"
+}, {
+    "id": 2406,
+    "nameId": "Bloporte le Veule"
+}, {
+    "id": 2407,
+    "nameId": "Blof l'Apathique"
+}, {
+    "id": 2408,
+    "nameId": "Boombata le Garde"
+}, {
+    "id": 2411,
+    "nameId": "Bulleur le Dormeur"
+}, {
+    "id": 2412,
+    "nameId": "Bramin le Bicéphale"
+}, {
+    "id": 2413,
+    "nameId": "Buldeflore le Pénétrant"
+}, {
+    "id": 2414,
+    "nameId": "Bulgig le Danseur"
+}, {
+    "id": 2415,
+    "nameId": "Bulsavon le Gonflé"
+}, {
+    "id": 2416,
+    "nameId": "Bworkasse le Dégoutant"
+}, {
+    "id": 2417,
+    "nameId": "Barchwork le Multicolore"
+}, {
+    "id": 2418,
+    "nameId": "Bwormage le Respectueux"
+}, {
+    "id": 2419,
+    "nameId": "Caboume l'Artilleur"
+}, {
+    "id": 2420,
+    "nameId": "Cavordemal le Sorcier"
+}, {
+    "id": 2421,
+    "nameId": "Chaffoin le Sournois"
+}, {
+    "id": 2422,
+    "nameId": "Chafrit le Barbare"
+}, {
+    "id": 2423,
+    "nameId": "Chamitant le Dilettante"
+}, {
+    "id": 2424,
+    "nameId": "Champayt l'Odorant"
+}, {
+    "id": 2425,
+    "nameId": "Chamflay le Ballonné"
+}, {
+    "id": 2426,
+    "nameId": "Chamdblé le Cultivé"
+}, {
+    "id": 2427,
+    "nameId": "Champayr le Disjoncté"
+}, {
+    "id": 2428,
+    "nameId": "Crok le Beau"
+}, {
+    "id": 2429,
+    "nameId": "Koamag'oel le Défiguré"
+}, {
+    "id": 2430,
+    "nameId": "Chevaustine le Reconstruit"
+}, {
+    "id": 2431,
+    "nameId": "Citassaté le Service"
+}, {
+    "id": 2432,
+    "nameId": "Farlon l'Enfant"
+}, {
+    "id": 2433,
+    "nameId": "Codenlgaz le Problème"
+}, {
+    "id": 2434,
+    "nameId": "Cooligane le Névrosé"
+}, {
+    "id": 2436,
+    "nameId": "Crakmitaine le Faucheur"
+}, {
+    "id": 2437,
+    "nameId": "Corpat le Vampire"
+}, {
+    "id": 2438,
+    "nameId": "Cramikaz le Suicidaire"
+}, {
+    "id": 2439,
+    "nameId": "Crolnareff l'Exilé"
+}, {
+    "id": 2440,
+    "nameId": "Crognan le Barbare"
+}, {
+    "id": 2442,
+    "nameId": "Doktopuss le Maléfique"
+}, {
+    "id": 2445,
+    "nameId": "Dragoeth le Penseur"
+}, {
+    "id": 2446,
+    "nameId": "Dragma le Bouillant"
+}, {
+    "id": 2447,
+    "nameId": "Dragtonien le Malvoyant"
+}, {
+    "id": 2448,
+    "nameId": "Dragoo le Cramoisi"
+}, {
+    "id": 2449,
+    "nameId": "Dragnostik le Sceptique"
+}, {
+    "id": 2450,
+    "nameId": "Dragkouine la Déguisée"
+}, {
+    "id": 2451,
+    "nameId": "Dragsta le Détendu"
+}, {
+    "id": 2452,
+    "nameId": "Dragobert le Monarque"
+}, {
+    "id": 2453,
+    "nameId": "Dragtopaile l'Excavateur"
+}, {
+    "id": 2454,
+    "nameId": "Dragminster le Magicien"
+}, {
+    "id": 2455,
+    "nameId": "Dragalgan l'Effervescent"
+}, {
+    "id": 2456,
+    "nameId": "Dragtarus le Bellâtre"
+}, {
+    "id": 2457,
+    "nameId": "Dragybuss le Sucré"
+}, {
+    "id": 2458,
+    "nameId": "Draquetteur le Voleur"
+}, {
+    "id": 2459,
+    "nameId": "Dragioli le Succulent"
+}, {
+    "id": 2460,
+    "nameId": "Drageaufol la Joyeuse"
+}, {
+    "id": 2461,
+    "nameId": "Dragonienne l'Econome"
+}, {
+    "id": 2462,
+    "nameId": "Drakolage le Tentateur"
+}, {
+    "id": 2464,
+    "nameId": "Dragdikal le Décisif"
+}, {
+    "id": 2465,
+    "nameId": "Dragnoute l'Irascible"
+}, {
+    "id": 2466,
+    "nameId": "Fanlabiz le Véloce"
+}, {
+    "id": 2467,
+    "nameId": "Fandanleuil le Précis"
+}, {
+    "id": 2468,
+    "nameId": "Fantrask le Rêveur"
+}, {
+    "id": 2469,
+    "nameId": "Fanstatik l'Etonnant"
+}, {
+    "id": 2470,
+    "nameId": "Fansiss la Brêle"
+}, {
+    "id": 2471,
+    "nameId": "Fandouich l'Hautain"
+}, {
+    "id": 2472,
+    "nameId": "Fanlmyl l'Acuité"
+}, {
+    "id": 2473,
+    "nameId": "Fanhnatur le Simple"
+}, {
+    "id": 2474,
+    "nameId": "Fanfancisco le Cosmopolite"
+}, {
+    "id": 2475,
+    "nameId": "Fanjo le Pilote"
+}, {
+    "id": 2476,
+    "nameId": "Fanjipann le Sucré"
+}, {
+    "id": 2477,
+    "nameId": "Fanburn le Viril"
+}, {
+    "id": 2482,
+    "nameId": "Fossamoel le Juteux"
+}, {
+    "id": 2483,
+    "nameId": "Fantassein le Soldat"
+}, {
+    "id": 2484,
+    "nameId": "Fourapin le Chaud"
+}, {
+    "id": 2486,
+    "nameId": "Garsim le Mort"
+}, {
+    "id": 2487,
+    "nameId": "Gelanal le Huileux"
+}, {
+    "id": 2493,
+    "nameId": "Ginsenk le Stimulant"
+}, {
+    "id": 2494,
+    "nameId": "Gobstiniais le Têtu"
+}, {
+    "id": 2495,
+    "nameId": "Gloubibou le Gars"
+}, {
+    "id": 2497,
+    "nameId": "Guerrite le Veilleur"
+}, {
+    "id": 2498,
+    "nameId": "Grandilok le Clameur"
+}, {
+    "id": 2502,
+    "nameId": "Kannibal le Lecteur"
+}, {
+    "id": 2503,
+    "nameId": "Kanasukr le Mielleux"
+}, {
+    "id": 2505,
+    "nameId": "Kannémik le Maigre"
+}, {
+    "id": 2506,
+    "nameId": "Kannisterik le Forcené"
+}, {
+    "id": 2507,
+    "nameId": "Kapota la Fraise"
+}, {
+    "id": 2508,
+    "nameId": "Kiroyal le Sirupeux"
+}, {
+    "id": 2509,
+    "nameId": "Koaskette la Chapelière"
+}, {
+    "id": 2510,
+    "nameId": "Kitsoudbra le Malodorant"
+}, {
+    "id": 2511,
+    "nameId": "Kitsoupopulère le Généreux"
+}, {
+    "id": 2512,
+    "nameId": "Kitsoufre l'Explosif"
+}, {
+    "id": 2513,
+    "nameId": "Koamaembair le Coulant"
+}, {
+    "id": 2514,
+    "nameId": "Koalaboi le Calorifère"
+}, {
+    "id": 2515,
+    "nameId": "Koasossyal le Psychopathe"
+}, {
+    "id": 2516,
+    "nameId": "Koakofrui le Confit"
+}, {
+    "id": 2517,
+    "nameId": "Koalastrof la Naturelle"
+}, {
+    "id": 2518,
+    "nameId": "Koarmit la Batracienne"
+}, {
+    "id": 2519,
+    "nameId": "Koalvissie le Chauve"
+}, {
+    "id": 2520,
+    "nameId": "Kolforthe l'Indécollable"
+}, {
+    "id": 2521,
+    "nameId": "Krapahut le Randonneur"
+}, {
+    "id": 2522,
+    "nameId": "Kwoanneur le Frimeur"
+}, {
+    "id": 2524,
+    "nameId": "Ouassébo l'Esthète"
+}, {
+    "id": 2525,
+    "nameId": "Let le Rond"
+}, {
+    "id": 2526,
+    "nameId": "Mahoku le Botté"
+}, {
+    "id": 2527,
+    "nameId": "Léopolnor le Barde"
+}, {
+    "id": 2528,
+    "nameId": "Mamakomou l'Âge"
+}, {
+    "id": 2529,
+    "nameId": "Mandalo l'Aqueuse"
+}, {
+    "id": 2531,
+    "nameId": "Maître Koantik le Théoricien"
+}, {
+    "id": 2532,
+    "nameId": "Maître Amboat le Moqueur"
+}, {
+    "id": 2533,
+    "nameId": "Minoskour le Sauveur"
+}, {
+    "id": 2534,
+    "nameId": "Momikonos la Bandelette"
+}, {
+    "id": 2538,
+    "nameId": "Nakuneuye le Borgne"
+}, {
+    "id": 2539,
+    "nameId": "Nelvin le Boulet"
+}, {
+    "id": 2540,
+    "nameId": "Nipulnislip l'Exhibitionniste"
+}, {
+    "id": 2541,
+    "nameId": "Nodkoku le Trahi"
+}, {
+    "id": 2542,
+    "nameId": "Neufedur le Flottant"
+}, {
+    "id": 2543,
+    "nameId": "Onihylis le Destructeur"
+}, {
+    "id": 2544,
+    "nameId": "Abrakine le Sombre"
+}, {
+    "id": 2545,
+    "nameId": "Barebourd le Comte"
+}, {
+    "id": 2546,
+    "nameId": "Bitoven le Musicien"
+}, {
+    "id": 2547,
+    "nameId": "Toufou le Benêt"
+}, {
+    "id": 2548,
+    "nameId": "Bambouské le Camouflé"
+}, {
+    "id": 2549,
+    "nameId": "Boostif l'Affamé"
+}, {
+    "id": 2550,
+    "nameId": "Brouste l'Humiliant"
+}, {
+    "id": 2551,
+    "nameId": "Champolyon le Polyglotte"
+}, {
+    "id": 2552,
+    "nameId": "Chamoute le Duveteux"
+}, {
+    "id": 2553,
+    "nameId": "Chamilero le Malchanceux"
+}, {
+    "id": 2554,
+    "nameId": "Chiendanlémin l'Illusionniste"
+}, {
+    "id": 2555,
+    "nameId": "Corboyard l'Enigmatique"
+}, {
+    "id": 2556,
+    "nameId": "Craquetou le Fissuré"
+}, {
+    "id": 2557,
+    "nameId": "Crustterus l'Organique"
+}, {
+    "id": 2558,
+    "nameId": "Crustensyl le Pragmatique"
+}, {
+    "id": 2559,
+    "nameId": "Cruskof le Rustre"
+}, {
+    "id": 2560,
+    "nameId": "Crusmeyer le Pervers"
+}, {
+    "id": 2561,
+    "nameId": "Crathdogue le Cruel"
+}, {
+    "id": 2562,
+    "nameId": "Diskord le Belliqueux"
+}, {
+    "id": 2563,
+    "nameId": "Fantoch le Pantin"
+}, {
+    "id": 2564,
+    "nameId": "Fanlagoel le Comique"
+}, {
+    "id": 2565,
+    "nameId": "Floanna la Blonde"
+}, {
+    "id": 2566,
+    "nameId": "Gastroth la Contagieuse"
+}, {
+    "id": 2567,
+    "nameId": "Faufoll la Joyeuse"
+}, {
+    "id": 2568,
+    "nameId": "Germinol l'Indigent"
+}, {
+    "id": 2569,
+    "nameId": "Guerumoth le Collant"
+}, {
+    "id": 2570,
+    "nameId": "Kaskapointhe la Couverte"
+}, {
+    "id": 2571,
+    "nameId": "Kido l'Âtre"
+}, {
+    "id": 2572,
+    "nameId": "Kilimanj'haro le Grimpeur"
+}, {
+    "id": 2573,
+    "nameId": "Koktèle le Secoué"
+}, {
+    "id": 2574,
+    "nameId": "Larvonika l'Instrument"
+}, {
+    "id": 2575,
+    "nameId": "Ouashouash l'Exubérant"
+}, {
+    "id": 2577,
+    "nameId": "Meuroup le Prêtre"
+}, {
+    "id": 2578,
+    "nameId": "Don Kizoth l'Obstiné"
+}, {
+    "id": 2579,
+    "nameId": "Nerdeubeu le Flagellant"
+}, {
+    "id": 2580,
+    "nameId": "Mufguedin le Suprême"
+}, {
+    "id": 2581,
+    "nameId": "Palmbytch la Bronzée"
+}, {
+    "id": 2582,
+    "nameId": "Palmito le Menteur"
+}, {
+    "id": 2583,
+    "nameId": "Palmiche le Serein"
+}, {
+    "id": 2584,
+    "nameId": "Palmiflette le Convivial"
+}, {
+    "id": 2585,
+    "nameId": "Osuxion le Vampirique"
+}, {
+    "id": 2587,
+    "nameId": "Seripoth l'Ennemi"
+}, {
+    "id": 2588,
+    "nameId": "Sparoket le Lanceur"
+}, {
+    "id": 2589,
+    "nameId": "Ougaould le Parasite"
+}, {
+    "id": 2590,
+    "nameId": "Pandanlagl la Saoule"
+}, {
+    "id": 2591,
+    "nameId": "Pandouille le Titubant"
+}, {
+    "id": 2592,
+    "nameId": "Pandimaensh l'Animateur"
+}, {
+    "id": 2593,
+    "nameId": "Pandimy le Contagieux"
+}, {
+    "id": 2597,
+    "nameId": "Pandive le Végétarien"
+}, {
+    "id": 2598,
+    "nameId": "Pangraive le Militant"
+}, {
+    "id": 2600,
+    "nameId": "Champmé le Méchant"
+}, {
+    "id": 2601,
+    "nameId": "Tromplamor le Survivant"
+}, {
+    "id": 2614,
+    "nameId": "Roy le Merlin"
+}, {
+    "id": 2615,
+    "nameId": "Scaratyn l'Huître"
+}, {
+    "id": 2616,
+    "nameId": "Ouature la Mobile"
+}, {
+    "id": 2622,
+    "nameId": "Croc Gland de Nowel"
+}, {
+    "id": 2680,
+    "nameId": "Kreuvète la Bwork Ingénue"
+}, {
+    "id": 2685,
+    "nameId": "Kruorre le Chafer Haï"
+}, {
+    "id": 2691,
+    "nameId": "Dopeul Pandawa"
+}, {
+    "id": 2771,
+    "nameId": "Abraknyde invoqué"
+}, {
+    "id": 2781,
+    "nameId": "Bouftou Céleste"
+}, {
+    "id": 2785,
+    "nameId": "Globe Céleste"
+}, {
+    "id": 2789,
+    "nameId": "Craqueboule invoqué"
+}, {
+    "id": 2815,
+    "nameId": "Totem du Feu"
+}, {
+    "id": 2816,
+    "nameId": "Totem de l'Eau"
+}, {
+    "id": 2817,
+    "nameId": "Totem de l'Air"
+}, {
+    "id": 2818,
+    "nameId": "Totem de la Terre"
+}, {
+    "id": 2819,
+    "nameId": "Minotoboule de Nowel"
+}, {
+    "id": 2845,
+    "nameId": "Sanglacier"
+}, {
+    "id": 2846,
+    "nameId": "Fricochère"
+}, {
+    "id": 2847,
+    "nameId": "Kaniglou"
+}, {
+    "id": 2848,
+    "nameId": "Mansot Royal"
+}, {
+    "id": 2849,
+    "nameId": "Timansot"
+}, {
+    "id": 2850,
+    "nameId": "Boufmouth"
+}, {
+    "id": 2851,
+    "nameId": "Boufmouth de guerre"
+}, {
+    "id": 2852,
+    "nameId": "Boufmouth légendaire"
+}, {
+    "id": 2853,
+    "nameId": "Bouftonmouth"
+}, {
+    "id": 2854,
+    "nameId": "Royalmouth"
+}, {
+    "id": 2855,
+    "nameId": "Shamansot"
+}, {
+    "id": 2856,
+    "nameId": "Mansobèse"
+}, {
+    "id": 2857,
+    "nameId": "Mamansot"
+}, {
+    "id": 2858,
+    "nameId": "Fu Mansot"
+}, {
+    "id": 2859,
+    "nameId": "Écumouth"
+}, {
+    "id": 2860,
+    "nameId": "Smilomouth"
+}, {
+    "id": 2861,
+    "nameId": "Apériglours"
+}, {
+    "id": 2862,
+    "nameId": "Boulglours"
+}, {
+    "id": 2863,
+    "nameId": "Gloursaya"
+}, {
+    "id": 2864,
+    "nameId": "Glourséleste"
+}, {
+    "id": 2865,
+    "nameId": "Crapeur"
+}, {
+    "id": 2866,
+    "nameId": "Atomystique"
+}, {
+    "id": 2867,
+    "nameId": "Mofette"
+}, {
+    "id": 2868,
+    "nameId": "Fumrirolle"
+}, {
+    "id": 2869,
+    "nameId": "Solfataré"
+}, {
+    "id": 2874,
+    "nameId": "Fancrôme"
+}, {
+    "id": 2875,
+    "nameId": "Fantomalamère"
+}, {
+    "id": 2876,
+    "nameId": "Vigie pirate"
+}, {
+    "id": 2877,
+    "nameId": "Ben le Ripate"
+}, {
+    "id": 2878,
+    "nameId": "Harpirate"
+}, {
+    "id": 2880,
+    "nameId": "Fantômat"
+}, {
+    "id": 2881,
+    "nameId": "Fantimonier"
+}, {
+    "id": 2882,
+    "nameId": "Méga Craqueleur des plaines"
+}, {
+    "id": 2883,
+    "nameId": "Blérauve"
+}, {
+    "id": 2884,
+    "nameId": "Blérom"
+}, {
+    "id": 2885,
+    "nameId": "Wolvero"
+}, {
+    "id": 2886,
+    "nameId": "Croleur"
+}, {
+    "id": 2888,
+    "nameId": "Yokaï Givrefoux"
+}, {
+    "id": 2889,
+    "nameId": "Maho Givrefoux"
+}, {
+    "id": 2890,
+    "nameId": "Soryo Givrefoux"
+}, {
+    "id": 2891,
+    "nameId": "Yomi Givrefoux"
+}, {
+    "id": 2892,
+    "nameId": "Rat Bougri"
+}, {
+    "id": 2893,
+    "nameId": "Crabe Hijacob"
+}, {
+    "id": 2895,
+    "nameId": "Dramanite"
+}, {
+    "id": 2896,
+    "nameId": "Fistulor"
+}, {
+    "id": 2897,
+    "nameId": "Fongeur"
+}, {
+    "id": 2898,
+    "nameId": "Abrazif"
+}, {
+    "id": 2899,
+    "nameId": "Motte"
+}, {
+    "id": 2900,
+    "nameId": "Mérulette"
+}, {
+    "id": 2901,
+    "nameId": "Bouflouth"
+}, {
+    "id": 2902,
+    "nameId": "Monsieur Pingouin"
+}, {
+    "id": 2903,
+    "nameId": "Katigrou"
+}, {
+    "id": 2904,
+    "nameId": "Fantômayte"
+}, {
+    "id": 2905,
+    "nameId": "Vengeuse Masquée"
+}, {
+    "id": 2906,
+    "nameId": "YeCh'Ti"
+}, {
+    "id": 2908,
+    "nameId": "Dremoan"
+}, {
+    "id": 2909,
+    "nameId": "Flasho"
+}, {
+    "id": 2910,
+    "nameId": "Viti Glourson"
+}, {
+    "id": 2913,
+    "nameId": "Chachachovage"
+}, {
+    "id": 2914,
+    "nameId": "Gélikan"
+}, {
+    "id": 2924,
+    "nameId": "Obsidiantre"
+}, {
+    "id": 2932,
+    "nameId": "Gobosteur"
+}, {
+    "id": 2933,
+    "nameId": "Sapeur"
+}, {
+    "id": 2934,
+    "nameId": "Ouilleur"
+}, {
+    "id": 2935,
+    "nameId": "Marôdeur"
+}, {
+    "id": 2936,
+    "nameId": "Perkü"
+}, {
+    "id": 2937,
+    "nameId": "Courtilieur"
+}, {
+    "id": 2941,
+    "nameId": "Gobus"
+}, {
+    "id": 2942,
+    "nameId": "Grolloum"
+}, {
+    "id": 2950,
+    "nameId": "Pitraille"
+}, {
+    "id": 2951,
+    "nameId": "Pougnette"
+}, {
+    "id": 2955,
+    "nameId": "Hamrack"
+}, {
+    "id": 2960,
+    "nameId": "Kanniboul Ebil"
+}, {
+    "id": 2961,
+    "nameId": "Poupée Aycetroy"
+}, {
+    "id": 2965,
+    "nameId": "Fleuro"
+}, {
+    "id": 2966,
+    "nameId": "Blérice"
+}, {
+    "id": 2967,
+    "nameId": "Tengu Givrefoux"
+}, {
+    "id": 2968,
+    "nameId": "Korriandre"
+}, {
+    "id": 2969,
+    "nameId": "Sporakne"
+}, {
+    "id": 2970,
+    "nameId": "Fuji Givrefoux"
+}, {
+    "id": 2971,
+    "nameId": "Germe de Dremoan"
+}, {
+    "id": 2975,
+    "nameId": "Boostache"
+}, {
+    "id": 2976,
+    "nameId": "Ashi-magari"
+}, {
+    "id": 2982,
+    "nameId": "Kami Givrefoux"
+}, {
+    "id": 2986,
+    "nameId": "Kolosso"
+}, {
+    "id": 2987,
+    "nameId": "Glourmand"
+}, {
+    "id": 2988,
+    "nameId": "Glouragan"
+}, {
+    "id": 2989,
+    "nameId": "Meliglours"
+}, {
+    "id": 2992,
+    "nameId": "Professeur Xa"
+}, {
+    "id": 2995,
+    "nameId": "Kwakwa"
+}, {
+    "id": 3096,
+    "nameId": "Crowneille"
+}, {
+    "id": 3097,
+    "nameId": "Kolérat de Laboratoire"
+}, {
+    "id": 3098,
+    "nameId": "Ouginak Déchaîné"
+}, {
+    "id": 3099,
+    "nameId": "Scorbute Renforcé"
+}, {
+    "id": 3100,
+    "nameId": "Nelween"
+}, {
+    "id": 3106,
+    "nameId": "Cadeau animé"
+}, {
+    "id": 3107,
+    "nameId": "Peluche Tofu"
+}, {
+    "id": 3108,
+    "nameId": "Peluche Bouftou"
+}, {
+    "id": 3109,
+    "nameId": "Peluche Wabbit"
+}, {
+    "id": 3111,
+    "nameId": "Dopeul Roublard"
+}, {
+    "id": 3117,
+    "nameId": "Dragodinde de Nowel"
+}, {
+    "id": 3118,
+    "nameId": "Dragodinde de Nowel Sauvage"
+}, {
+    "id": 3119,
+    "nameId": "Dragodinde de Nowel Fougueuse"
+}, {
+    "id": 3132,
+    "nameId": "Dopeul Zobal"
+}, {
+    "id": 3133,
+    "nameId": "Petit Cadeau animé"
+}, {
+    "id": 3137,
+    "nameId": "Gorgouille"
+}, {
+    "id": 3142,
+    "nameId": "Grozilla"
+}, {
+    "id": 3143,
+    "nameId": "Grasmera"
+}, {
+    "id": 3144,
+    "nameId": "Krokille Juvénile Crue"
+}, {
+    "id": 3145,
+    "nameId": "Krokille Juvénile Insipide"
+}, {
+    "id": 3146,
+    "nameId": "Krokille Juvénile Boueuse"
+}, {
+    "id": 3147,
+    "nameId": "Krokille Juvénile Incandescente"
+}, {
+    "id": 3148,
+    "nameId": "Krokille Juvénile Humide"
+}, {
+    "id": 3149,
+    "nameId": "Krokille Juvénile Sèche"
+}, {
+    "id": 3150,
+    "nameId": "Krokille Novice Insipide"
+}, {
+    "id": 3151,
+    "nameId": "Krokille Novice Boueuse"
+}, {
+    "id": 3152,
+    "nameId": "Krokille Novice Incandescente"
+}, {
+    "id": 3153,
+    "nameId": "Krokille Novice Humide"
+}, {
+    "id": 3154,
+    "nameId": "Krokille Novice Sèche"
+}, {
+    "id": 3155,
+    "nameId": "Krokille Mature Insipide"
+}, {
+    "id": 3156,
+    "nameId": "Krokille Mature Boueuse"
+}, {
+    "id": 3157,
+    "nameId": "Krokille Mature Incandescente"
+}, {
+    "id": 3158,
+    "nameId": "Krokille Mature Humide"
+}, {
+    "id": 3159,
+    "nameId": "Krokille Mature Sèche"
+}, {
+    "id": 3160,
+    "nameId": "Krokille Vénérable Insipide"
+}, {
+    "id": 3161,
+    "nameId": "Krokille Vénérable Boueuse"
+}, {
+    "id": 3162,
+    "nameId": "Krokille Vénérable Incandescente"
+}, {
+    "id": 3163,
+    "nameId": "Krokille Vénérable Humide"
+}, {
+    "id": 3164,
+    "nameId": "Krokille Vénérable Sèche"
+}, {
+    "id": 3165,
+    "nameId": "Krokille Novice Crue"
+}, {
+    "id": 3166,
+    "nameId": "Krokille Mature Crue"
+}, {
+    "id": 3167,
+    "nameId": "Krokille Vénérable Crue"
+}, {
+    "id": 3168,
+    "nameId": "Krokille de Mer"
+}, {
+    "id": 3172,
+    "nameId": "Sousouris Touriste"
+}, {
+    "id": 3205,
+    "nameId": "Ramane Strubien"
+}, {
+    "id": 3208,
+    "nameId": "Daïgoro"
+}, {
+    "id": 3232,
+    "nameId": "Bulbig Brozeur"
+}, {
+    "id": 3234,
+    "nameId": "Fuji Givrefoux Nourricière"
+}, {
+    "id": 3235,
+    "nameId": "Boostache Prépubère"
+}, {
+    "id": 3238,
+    "nameId": "Chafer Rōnin"
+}, {
+    "id": 3239,
+    "nameId": "Chafer Draugr"
+}, {
+    "id": 3240,
+    "nameId": "Chafer Primitif"
+}, {
+    "id": 3270,
+    "nameId": "Feu Vif"
+}, {
+    "id": 3271,
+    "nameId": "Feu de Joie"
+}, {
+    "id": 3272,
+    "nameId": "Feu Furieux"
+}, {
+    "id": 3273,
+    "nameId": "Feu Follet"
+}, {
+    "id": 3281,
+    "nameId": "Bwak de Vent"
+}, {
+    "id": 3282,
+    "nameId": "Bwak de Glace"
+}, {
+    "id": 3283,
+    "nameId": "Bwak de Flamme"
+}, {
+    "id": 3284,
+    "nameId": "Bwak de Terre"
+}, {
+    "id": 3293,
+    "nameId": "Grozilla Fatigué"
+}, {
+    "id": 3294,
+    "nameId": "Grozilla Épuisé"
+}, {
+    "id": 3295,
+    "nameId": "Grozilla Somnambule"
+}, {
+    "id": 3296,
+    "nameId": "Grasmera Fatigué"
+}, {
+    "id": 3297,
+    "nameId": "Grasmera Épuisé"
+}, {
+    "id": 3298,
+    "nameId": "Grasmera Somnambule"
+}, {
+    "id": 3299,
+    "nameId": "Vilain Petit Tofu"
+}, {
+    "id": 3300,
+    "nameId": "Tofutoflamme"
+}, {
+    "id": 3301,
+    "nameId": "Tofubine"
+}, {
+    "id": 3302,
+    "nameId": "Tofu Dodu"
+}, {
+    "id": 3304,
+    "nameId": "Porsalu"
+}, {
+    "id": 3306,
+    "nameId": "Halouine"
+}, {
+    "id": 3307,
+    "nameId": "Dévhorreur"
+}, {
+    "id": 3308,
+    "nameId": "Cauchemarakne"
+}, {
+    "id": 3309,
+    "nameId": "Champêtrouille"
+}, {
+    "id": 3310,
+    "nameId": "Lanverne"
+}, {
+    "id": 3311,
+    "nameId": "Chauffe-Soutrille"
+}, {
+    "id": 3313,
+    "nameId": "Marcassin Fantômatique"
+}, {
+    "id": 3314,
+    "nameId": "El Scarador Fantômatique"
+}, {
+    "id": 3315,
+    "nameId": "Croum Fantômatique"
+}, {
+    "id": 3316,
+    "nameId": "Corbac Fantômatique"
+}, {
+    "id": 3344,
+    "nameId": "Arbre Collant"
+}, {
+    "id": 3345,
+    "nameId": "Ramane"
+}, {
+    "id": 3346,
+    "nameId": "Rat Goûtant"
+}, {
+    "id": 3347,
+    "nameId": "Rat Masseur"
+}, {
+    "id": 3348,
+    "nameId": "Rat Colleur"
+}, {
+    "id": 3349,
+    "nameId": "Rat Pine"
+}, {
+    "id": 3350,
+    "nameId": "Rat Fraîchi"
+}, {
+    "id": 3351,
+    "nameId": "Rat Caille"
+}, {
+    "id": 3352,
+    "nameId": "Rat Botteur"
+}, {
+    "id": 3358,
+    "nameId": "Larve Verte Solitaire"
+}, {
+    "id": 3359,
+    "nameId": "Larve Bleue Solitaire"
+}, {
+    "id": 3362,
+    "nameId": "Bomberfu de Nowel"
+}, {
+    "id": 3379,
+    "nameId": "Harrogant"
+}, {
+    "id": 3380,
+    "nameId": "Grodruche"
+}, {
+    "id": 3381,
+    "nameId": "Peunch"
+}, {
+    "id": 3382,
+    "nameId": "Empaillé"
+}, {
+    "id": 3383,
+    "nameId": "Cuirboule"
+}, {
+    "id": 3384,
+    "nameId": "Klime"
+}, {
+    "id": 3385,
+    "nameId": "Ventrublion"
+}, {
+    "id": 3386,
+    "nameId": "Stalak"
+}, {
+    "id": 3387,
+    "nameId": "Karkanik"
+}, {
+    "id": 3389,
+    "nameId": "Verglasseur"
+}, {
+    "id": 3390,
+    "nameId": "Frimar"
+}, {
+    "id": 3391,
+    "nameId": "Missiz Frizz"
+}, {
+    "id": 3392,
+    "nameId": "Nessil"
+}, {
+    "id": 3393,
+    "nameId": "Krakal"
+}, {
+    "id": 3394,
+    "nameId": "Dodox"
+}, {
+    "id": 3395,
+    "nameId": "Termystique"
+}, {
+    "id": 3396,
+    "nameId": "Drosérâle"
+}, {
+    "id": 3397,
+    "nameId": "Nileza"
+}, {
+    "id": 3404,
+    "nameId": "Kanimate"
+}, {
+    "id": 3405,
+    "nameId": "Brikoglours"
+}, {
+    "id": 3406,
+    "nameId": "Mansordide"
+}, {
+    "id": 3407,
+    "nameId": "Mécanofoux"
+}, {
+    "id": 3408,
+    "nameId": "Mérulor"
+}, {
+    "id": 3409,
+    "nameId": "Sylargh"
+}, {
+    "id": 3410,
+    "nameId": "Granduk"
+}, {
+    "id": 3411,
+    "nameId": "Strigide"
+}, {
+    "id": 3412,
+    "nameId": "Cycloïde"
+}, {
+    "id": 3414,
+    "nameId": "Sinistrofu"
+}, {
+    "id": 3415,
+    "nameId": "Nocturlabe"
+}, {
+    "id": 3416,
+    "nameId": "Comte Harebourg"
+}, {
+    "id": 3429,
+    "nameId": "Larve Bleue insatiable"
+}, {
+    "id": 3430,
+    "nameId": "Larve Verte insatiable"
+}, {
+    "id": 3431,
+    "nameId": "Larve Orange insatiable"
+}, {
+    "id": 3458,
+    "nameId": "Cawotte Woyale"
+}, {
+    "id": 3459,
+    "nameId": "Wobot Tamponneur"
+}, {
+    "id": 3460,
+    "nameId": "Wa Wobot"
+}, {
+    "id": 3461,
+    "nameId": "Black Wo Wabbit"
+}, {
+    "id": 3462,
+    "nameId": "Wobot Kiafin"
+}, {
+    "id": 3463,
+    "nameId": "Blanc Pa Wabbit"
+}, {
+    "id": 3464,
+    "nameId": "Wabbit Vampire"
+}, {
+    "id": 3465,
+    "nameId": "Cawotman"
+}, {
+    "id": 3466,
+    "nameId": "Wabbit Fluo"
+}, {
+    "id": 3467,
+    "nameId": "Wabbit Céphale"
+}, {
+    "id": 3468,
+    "nameId": "Wabbit Garou"
+}, {
+    "id": 3469,
+    "nameId": "Black Wabbit Squelette"
+}, {
+    "id": 3474,
+    "nameId": "Tiwobot"
+}, {
+    "id": 3475,
+    "nameId": "Cawotte GM"
+}, {
+    "id": 3476,
+    "nameId": "Maître des Pantins"
+}, {
+    "id": 3477,
+    "nameId": "Marionnette Blanche"
+}, {
+    "id": 3478,
+    "nameId": "Marionnette Bleue"
+}, {
+    "id": 3479,
+    "nameId": "Marionnette Rouge"
+}, {
+    "id": 3480,
+    "nameId": "Marionnette Verte"
+}, {
+    "id": 3481,
+    "nameId": "Marionnette Grise"
+}, {
+    "id": 3482,
+    "nameId": "Dramak"
+}, {
+    "id": 3483,
+    "nameId": "Pantin"
+}, {
+    "id": 3484,
+    "nameId": "Rhinoféroce"
+}, {
+    "id": 3485,
+    "nameId": "Molette"
+}, {
+    "id": 3486,
+    "nameId": "Gobvious"
+}, {
+    "id": 3487,
+    "nameId": "Bouledogre"
+}, {
+    "id": 3522,
+    "nameId": "Petite Marionnette"
+}, {
+    "id": 3524,
+    "nameId": "Ali Grothor"
+}, {
+    "id": 3525,
+    "nameId": "Ambi Guman"
+}, {
+    "id": 3526,
+    "nameId": "Exi Guman"
+}, {
+    "id": 3527,
+    "nameId": "Gadoo"
+}, {
+    "id": 3528,
+    "nameId": "Amy l'empoisonneuse"
+}, {
+    "id": 3529,
+    "nameId": "Citwouillette"
+}, {
+    "id": 3530,
+    "nameId": "Ronce"
+}, {
+    "id": 3531,
+    "nameId": "Ronce animée"
+}, {
+    "id": 3533,
+    "nameId": "Hyperscampe"
+}, {
+    "id": 3534,
+    "nameId": "Merkator"
+}, {
+    "id": 3535,
+    "nameId": "Pikoleur"
+}, {
+    "id": 3538,
+    "nameId": "Harpo"
+}, {
+    "id": 3539,
+    "nameId": "Bosko Tho"
+}, {
+    "id": 3540,
+    "nameId": "Poulpor"
+}, {
+    "id": 3541,
+    "nameId": "Kralab Rah"
+}, {
+    "id": 3542,
+    "nameId": "Krabouilleur"
+}, {
+    "id": 3543,
+    "nameId": "Eskoglyphe"
+}, {
+    "id": 3544,
+    "nameId": "Cyclophandre"
+}, {
+    "id": 3555,
+    "nameId": "Ronce"
+}, {
+    "id": 3556,
+    "nameId": "Kanigroula"
+}, {
+    "id": 3557,
+    "nameId": "Kanihilan"
+}, {
+    "id": 3558,
+    "nameId": "Alhyène"
+}, {
+    "id": 3559,
+    "nameId": "Félygiène"
+}, {
+    "id": 3560,
+    "nameId": "Panthègros"
+}, {
+    "id": 3561,
+    "nameId": "Kaniblou"
+}, {
+    "id": 3562,
+    "nameId": "Orfélin"
+}, {
+    "id": 3563,
+    "nameId": "Globilum"
+}, {
+    "id": 3564,
+    "nameId": "Ombre"
+}, {
+    "id": 3565,
+    "nameId": "Silhouette"
+}, {
+    "id": 3566,
+    "nameId": "Noctulule"
+}, {
+    "id": 3567,
+    "nameId": "Panterreur"
+}, {
+    "id": 3568,
+    "nameId": "Brutopak"
+}, {
+    "id": 3569,
+    "nameId": "Caznoar"
+}, {
+    "id": 3570,
+    "nameId": "Sombléro"
+}, {
+    "id": 3618,
+    "nameId": "Haute Truche"
+}, {
+    "id": 3619,
+    "nameId": "Gruche"
+}, {
+    "id": 3620,
+    "nameId": "Truchmuche"
+}, {
+    "id": 3621,
+    "nameId": "Truchideur"
+}, {
+    "id": 3622,
+    "nameId": "Truchtine"
+}, {
+    "id": 3623,
+    "nameId": "Truchon"
+}, {
+    "id": 3636,
+    "nameId": "Kaniblou repus"
+}, {
+    "id": 3637,
+    "nameId": "Orfélin repus"
+}, {
+    "id": 3638,
+    "nameId": "Félybrêle"
+}, {
+    "id": 3643,
+    "nameId": "Grosse brute Kanig"
+}, {
+    "id": 3648,
+    "nameId": "Roi Nidas"
+}, {
+    "id": 3649,
+    "nameId": "Boubourse"
+}, {
+    "id": 3650,
+    "nameId": "Boubourse"
+}, {
+    "id": 3651,
+    "nameId": "Phossile"
+}, {
+    "id": 3652,
+    "nameId": "Malléfisk"
+}, {
+    "id": 3653,
+    "nameId": "Kamasterisk"
+}, {
+    "id": 3654,
+    "nameId": "Barbétoal"
+}, {
+    "id": 3655,
+    "nameId": "Lévitrof"
+}, {
+    "id": 3656,
+    "nameId": "Paspartou"
+}, {
+    "id": 3657,
+    "nameId": "Piloztère"
+}, {
+    "id": 3658,
+    "nameId": "Phorrêveur"
+}, {
+    "id": 3659,
+    "nameId": "Métaphorreur"
+}, {
+    "id": 3660,
+    "nameId": "Père Phorreur"
+}, {
+    "id": 3661,
+    "nameId": "Phozami"
+}, {
+    "id": 3662,
+    "nameId": "Mère Veilleuse"
+}, {
+    "id": 3663,
+    "nameId": "Boursoin"
+}, {
+    "id": 3664,
+    "nameId": "Mimikado"
+}, {
+    "id": 3665,
+    "nameId": "Trésantène"
+}, {
+    "id": 3666,
+    "nameId": "Berserkoffre"
+}, {
+    "id": 3667,
+    "nameId": "Précieux"
+}, {
+    "id": 3668,
+    "nameId": "Voldelor"
+}, {
+    "id": 3669,
+    "nameId": "Aigripoil"
+}, {
+    "id": 3670,
+    "nameId": "Maxi-Malle"
+}, {
+    "id": 3724,
+    "nameId": "Trésor"
+}, {
+    "id": 3725,
+    "nameId": "Bonbombe"
+}, {
+    "id": 3726,
+    "nameId": "Reine des Voleurs"
+}, {
+    "id": 3727,
+    "nameId": "Mutatruche"
+}, {
+    "id": 3730,
+    "nameId": "Milimaître"
+}, {
+    "id": 3731,
+    "nameId": "Kartouche"
+}, {
+    "id": 3732,
+    "nameId": "Sramouraï"
+}, {
+    "id": 3733,
+    "nameId": "Tromblion"
+}, {
+    "id": 3734,
+    "nameId": "Elsoummo"
+}, {
+    "id": 3735,
+    "nameId": "Scoliopode"
+}, {
+    "id": 3736,
+    "nameId": "Puceronde"
+}, {
+    "id": 3737,
+    "nameId": "Lucrane"
+}, {
+    "id": 3738,
+    "nameId": "Éperfide"
+}, {
+    "id": 3739,
+    "nameId": "Morfrelon"
+}, {
+    "id": 3745,
+    "nameId": "Bombe Illicale"
+}, {
+    "id": 3746,
+    "nameId": "Mâchassin"
+}, {
+    "id": 3747,
+    "nameId": "Terristocrate"
+}, {
+    "id": 3748,
+    "nameId": "Doublure"
+}, {
+    "id": 3749,
+    "nameId": "Bourôliste"
+}, {
+    "id": 3750,
+    "nameId": "Magouille"
+}, {
+    "id": 3752,
+    "nameId": "Toxoliath"
+}, {
+    "id": 3753,
+    "nameId": "Capitaine Ekarlatte"
+}, {
+    "id": 3760,
+    "nameId": "Mouchâme"
+}, {
+    "id": 3761,
+    "nameId": "Gein"
+}, {
+    "id": 3762,
+    "nameId": "Pantèroz"
+}, {
+    "id": 3793,
+    "nameId": "Gavroch"
+}, {
+    "id": 3820,
+    "nameId": "Cambrioleuse"
+}, {
+    "id": 3822,
+    "nameId": "Malamibe"
+}, {
+    "id": 3823,
+    "nameId": "Tabacille"
+}, {
+    "id": 3824,
+    "nameId": "Verminocule"
+}, {
+    "id": 3825,
+    "nameId": "Bacterrib"
+}, {
+    "id": 3826,
+    "nameId": "Virustine"
+}, {
+    "id": 3827,
+    "nameId": "Pataugerme"
+}, {
+    "id": 3828,
+    "nameId": "Protozorreur"
+}, {
+    "id": 3833,
+    "nameId": "Auroraire"
+}, {
+    "id": 3834,
+    "nameId": "Ikargn"
+}, {
+    "id": 3835,
+    "nameId": "Vortex"
+}, {
+    "id": 3836,
+    "nameId": "Méjaire"
+}, {
+    "id": 3837,
+    "nameId": "Harpille"
+}, {
+    "id": 3838,
+    "nameId": "Buboxor"
+}, {
+    "id": 3839,
+    "nameId": "Brabuzar"
+}, {
+    "id": 3840,
+    "nameId": "Trezz"
+}, {
+    "id": 3841,
+    "nameId": "Vindeux"
+}, {
+    "id": 3842,
+    "nameId": "Trantroa"
+}, {
+    "id": 3843,
+    "nameId": "Seith"
+}, {
+    "id": 3844,
+    "nameId": "Soissanth"
+}, {
+    "id": 3845,
+    "nameId": "Morblok"
+}, {
+    "id": 3848,
+    "nameId": "Hin"
+}, {
+    "id": 3849,
+    "nameId": "XLII"
+}, {
+    "id": 3850,
+    "nameId": "Auroraire"
+}, {
+    "id": 3851,
+    "nameId": "Sicogne"
+}, {
+    "id": 3852,
+    "nameId": "Fraktale"
+}, {
+    "id": 3853,
+    "nameId": "Auroraire"
+}, {
+    "id": 3854,
+    "nameId": "Gromorso"
+}, {
+    "id": 3855,
+    "nameId": "Farfacette"
+}, {
+    "id": 3856,
+    "nameId": "Brikablak"
+}, {
+    "id": 3857,
+    "nameId": "Éklatleth"
+}, {
+    "id": 3858,
+    "nameId": "Segmantid"
+}, {
+    "id": 3939,
+    "nameId": "Poupoussière"
+}, {
+    "id": 3940,
+    "nameId": "Cafarcher"
+}, {
+    "id": 3941,
+    "nameId": "Pyrasite"
+}, {
+    "id": 3942,
+    "nameId": "Mirgrillon"
+}, {
+    "id": 3943,
+    "nameId": "Sakarien"
+}, {
+    "id": 3944,
+    "nameId": "Céglumen"
+}, {
+    "id": 3945,
+    "nameId": "Kankreblath"
+}, {
+    "id": 3991,
+    "nameId": "Arapex"
+}, {
+    "id": 3992,
+    "nameId": "Dardalaine"
+}, {
+    "id": 3993,
+    "nameId": "Néfileuse"
+}, {
+    "id": 3994,
+    "nameId": "Saltik"
+}, {
+    "id": 3995,
+    "nameId": "Gargantûl"
+}, {
+    "id": 3996,
+    "nameId": "Reine Nyée"
+}, {
+    "id": 4000,
+    "nameId": "Abraknyde Chétif"
+}, {
+    "id": 4014,
+    "nameId": "Tyranne la Terrible"
+}, {
+    "id": 4015,
+    "nameId": "Fojumo"
+}, {
+    "id": 4016,
+    "nameId": "Guerrier du K.O."
+}, {
+    "id": 4017,
+    "nameId": "Anatak Diskedor"
+}, {
+    "id": 4027,
+    "nameId": "Naganita"
+}, {
+    "id": 4028,
+    "nameId": "Grand Kongoku"
+}, {
+    "id": 4041,
+    "nameId": "Nenufor Tilotus"
+}, {
+    "id": 4046,
+    "nameId": "Chafer Débutant"
+}, {
+    "id": 4047,
+    "nameId": "Chafer Furtif"
+}, {
+    "id": 4048,
+    "nameId": "Chafer Éclaireur"
+}, {
+    "id": 4049,
+    "nameId": "Chafer Piquier"
+}, {
+    "id": 4050,
+    "nameId": "Sergent Chafer"
+}, {
+    "id": 4051,
+    "nameId": "Kardorim"
+}, {
+    "id": 4053,
+    "nameId": "Percy Klop"
+}, {
+    "id": 4069,
+    "nameId": "Invocation Ventrue"
+}, {
+    "id": 4070,
+    "nameId": "Invocation Dévorante"
+}, {
+    "id": 4071,
+    "nameId": "Invocation Piquante"
+}, {
+    "id": 4072,
+    "nameId": "Invocation Osseuse"
+}, {
+    "id": 4074,
+    "nameId": "Furye"
+}, {
+    "id": 4080,
+    "nameId": "Cyanog amélioré"
+}, {
+    "id": 4082,
+    "nameId": "Kelpe amélioré"
+}, {
+    "id": 4087,
+    "nameId": "Goémus amélioré"
+}, {
+    "id": 4090,
+    "nameId": "Norie amélioré"
+}, {
+    "id": 4092,
+    "nameId": "Verak amélioré"
+}, {
+    "id": 4097,
+    "nameId": "Kruella Freuz"
+}, {
+    "id": 4098,
+    "nameId": "Caporale Mynerve"
+}, {
+    "id": 4102,
+    "nameId": "Milimilou"
+}, {
+    "id": 4105,
+    "nameId": "Ronronchon"
+}, {
+    "id": 4106,
+    "nameId": "Tigrimas"
+}, {
+    "id": 4107,
+    "nameId": "Aminite"
+}, {
+    "id": 4108,
+    "nameId": "Plikplok"
+}, {
+    "id": 4109,
+    "nameId": "Petit Gloot"
+}, {
+    "id": 4110,
+    "nameId": "Grand Splatch"
+}, {
+    "id": 4113,
+    "nameId": "Rat Soiffé"
+}, {
+    "id": 4114,
+    "nameId": "Feu Maléfique"
+}, {
+    "id": 4134,
+    "nameId": "Tofu Peintourlouré"
+}, {
+    "id": 4151,
+    "nameId": "Kanniboul Tam"
+}, {
+    "id": 4152,
+    "nameId": "Grokoko"
+}, {
+    "id": 4160,
+    "nameId": "Ricanif"
+}, {
+    "id": 4161,
+    "nameId": "Ivremor"
+}, {
+    "id": 4162,
+    "nameId": "Dostrogo"
+}, {
+    "id": 4163,
+    "nameId": "Domoizelle"
+}, {
+    "id": 4176,
+    "nameId": "Dolbinos"
+}, {
+    "id": 4177,
+    "nameId": "Dokachu"
+}, {
+    "id": 4178,
+    "nameId": "Dolivar"
+}, {
+    "id": 4240,
+    "nameId": "Trukipik"
+}, {
+    "id": 4263,
+    "nameId": "Chalœil"
+}, {
+    "id": 4264,
+    "nameId": "Ush Galesh"
+}, {
+    "id": 4265,
+    "nameId": "Ush Galesh"
+}, {
+    "id": 4278,
+    "nameId": "Pounicheur"
+}, {
+    "id": 4279,
+    "nameId": "Tipoune"
+}, {
+    "id": 4280,
+    "nameId": "Tipoude"
+}, {
+    "id": 4281,
+    "nameId": "Tipoutre"
+}, {
+    "id": 4282,
+    "nameId": "Dé"
+}, {
+    "id": 4283,
+    "nameId": "Soldat de Fortune"
+}, {
+    "id": 4284,
+    "nameId": "Cavalier Chanceux"
+}, {
+    "id": 4285,
+    "nameId": "Valet Veinard"
+}, {
+    "id": 4286,
+    "nameId": "Dame du Hasard"
+}, {
+    "id": 4287,
+    "nameId": "Roi Joueur"
+}, {
+    "id": 4290,
+    "nameId": "Dopeul Huppermage"
+}, {
+    "id": 4291,
+    "nameId": "Pupuce"
+}, {
+    "id": 4292,
+    "nameId": "Morcac"
+}, {
+    "id": 4293,
+    "nameId": "Pikbul"
+}, {
+    "id": 4294,
+    "nameId": "Gériatique"
+}, {
+    "id": 4295,
+    "nameId": "Grath"
+}, {
+    "id": 4296,
+    "nameId": "Chasquatch"
+}, {
+    "id": 4297,
+    "nameId": "Chacrebleu"
+}, {
+    "id": 4298,
+    "nameId": "Chakichan"
+}, {
+    "id": 4299,
+    "nameId": "Chargus"
+}, {
+    "id": 4300,
+    "nameId": "Chakaroze"
+}, {
+    "id": 4314,
+    "nameId": "Chargus"
+}, {
+    "id": 4380,
+    "nameId": "Dardalaine invoquée"
+}, {
+    "id": 4439,
+    "nameId": "Tourthon"
+}, {
+    "id": 4440,
+    "nameId": "Poulpée"
+}, {
+    "id": 4441,
+    "nameId": "Tryde"
+}, {
+    "id": 4442,
+    "nameId": "Rilur"
+}, {
+    "id": 4443,
+    "nameId": "Diondin"
+}, {
+    "id": 4444,
+    "nameId": "Dantinéa"
+}, {
+    "id": 4447,
+    "nameId": "Grokillage"
+}, {
+    "id": 4448,
+    "nameId": "Grofond"
+}, {
+    "id": 4449,
+    "nameId": "N'yalg"
+}, {
+    "id": 4450,
+    "nameId": "Shokkoth"
+}, {
+    "id": 4451,
+    "nameId": "Li-Fo"
+}, {
+    "id": 4452,
+    "nameId": "Klûtiste"
+}, {
+    "id": 4453,
+    "nameId": "Larve de Koutoulou"
+}, {
+    "id": 4454,
+    "nameId": "Miasme Polarisateur"
+}, {
+    "id": 4455,
+    "nameId": "Mol Usk"
+}, {
+    "id": 4456,
+    "nameId": "Crabe Yoloniste"
+}, {
+    "id": 4457,
+    "nameId": "Gambaf"
+}, {
+    "id": 4458,
+    "nameId": "Mantaze"
+}, {
+    "id": 4459,
+    "nameId": "Tilamproie"
+}, {
+    "id": 4460,
+    "nameId": "Capitaine Meno"
+}, {
+    "id": 4461,
+    "nameId": "Étoile Swagante"
+}, {
+    "id": 4462,
+    "nameId": "Crystal de Stasili"
+}, {
+    "id": 4506,
+    "nameId": "Buldalazred"
+}, {
+    "id": 4507,
+    "nameId": "Takomako"
+}, {
+    "id": 4532,
+    "nameId": "Homard Medali"
+}, {
+    "id": 4538,
+    "nameId": "Troolligark"
+}, {
+    "id": 4539,
+    "nameId": "Troolléolé"
+}, {
+    "id": 4540,
+    "nameId": "Troollogram"
+}, {
+    "id": 4541,
+    "nameId": "Mégabwork"
+}, {
+    "id": 4542,
+    "nameId": "Médibwork"
+}, {
+    "id": 4543,
+    "nameId": "Bizarbwork"
+}, {
+    "id": 4544,
+    "nameId": "Krambwork"
+}, {
+    "id": 4547,
+    "nameId": "Bourdard"
+}, {
+    "id": 4548,
+    "nameId": "Larve Champêtre"
+}, {
+    "id": 4549,
+    "nameId": "Bourdin"
+}, {
+    "id": 4550,
+    "nameId": "Gliglibido"
+}, {
+    "id": 4551,
+    "nameId": "Gliglidoudur"
+}, {
+    "id": 4552,
+    "nameId": "Gliglitch"
+}, {
+    "id": 4553,
+    "nameId": "Gliglicérin"
+}, {
+    "id": 4555,
+    "nameId": "Miss Tique"
+}, {
+    "id": 4556,
+    "nameId": "Miss Teigne"
+}, {
+    "id": 4557,
+    "nameId": "Robot Pousse-Pousse"
+}, {
+    "id": 4558,
+    "nameId": "Robot Fléau"
+}, {
+    "id": 4559,
+    "nameId": "Malle Outillée"
+}, {
+    "id": 4560,
+    "nameId": "Robionicle"
+}, {
+    "id": 4561,
+    "nameId": "Tofu noir"
+}, {
+    "id": 4564,
+    "nameId": "Bouftou noir"
+}, {
+    "id": 4565,
+    "nameId": "Dragonnet rouge"
+}, {
+    "id": 4566,
+    "nameId": "Dragonnet noir"
+}, {
+    "id": 4569,
+    "nameId": "Serpentin"
+}, {
+    "id": 4570,
+    "nameId": "Élémenterre"
+}, {
+    "id": 4571,
+    "nameId": "Craquelourd"
+}, {
+    "id": 4572,
+    "nameId": "Capsaaloocke"
+}, {
+    "id": 4573,
+    "nameId": "Craquelope"
+}, {
+    "id": 4574,
+    "nameId": "Foufayteur"
+}, {
+    "id": 4575,
+    "nameId": "Vétauran"
+}, {
+    "id": 4578,
+    "nameId": "Buveur de Sang"
+}, {
+    "id": 4579,
+    "nameId": "Corbac Chef"
+}, {
+    "id": 4580,
+    "nameId": "Corbac Dressé"
+}, {
+    "id": 4581,
+    "nameId": "Renarbo Parleur"
+}, {
+    "id": 4593,
+    "nameId": "Troollseum"
+}, {
+    "id": 4603,
+    "nameId": "Cactruc"
+}, {
+    "id": 4604,
+    "nameId": "Cactiflore"
+}, {
+    "id": 4605,
+    "nameId": "Cactana"
+}, {
+    "id": 4606,
+    "nameId": "Cactoblongo"
+}, {
+    "id": 4607,
+    "nameId": "Pampactus"
+}, {
+    "id": 4608,
+    "nameId": "Lévito"
+}, {
+    "id": 4609,
+    "nameId": "El Piko"
+}, {
+    "id": 4610,
+    "nameId": "Élémentaire de l'eau"
+}, {
+    "id": 4611,
+    "nameId": "Élémentaire du feu"
+}, {
+    "id": 4612,
+    "nameId": "Élémentaire de l'air"
+}, {
+    "id": 4613,
+    "nameId": "Élémentaire de la terre"
+}, {
+    "id": 4614,
+    "nameId": "Malédiction de Crâ"
+}, {
+    "id": 4615,
+    "nameId": "Scordion Bleu"
+}, {
+    "id": 4616,
+    "nameId": "Fennex"
+}, {
+    "id": 4617,
+    "nameId": "Boulépique"
+}, {
+    "id": 4618,
+    "nameId": "Tournade"
+}, {
+    "id": 4619,
+    "nameId": "Léolhyène"
+}, {
+    "id": 4620,
+    "nameId": "Ouroboulos"
+}, {
+    "id": 4621,
+    "nameId": "Mantiscore"
+}, {
+    "id": 4622,
+    "nameId": "Roi Camole"
+}, {
+    "id": 4623,
+    "nameId": "Kalisthe"
+}, {
+    "id": 4662,
+    "nameId": "L'Ombre Blanche"
+}, {
+    "id": 4663,
+    "nameId": "Fennex Pimenté"
+}, {
+    "id": 4664,
+    "nameId": "Léolhyène Pimentée"
+}, {
+    "id": 4665,
+    "nameId": "Ouroboulos Pimenté"
+}, {
+    "id": 4666,
+    "nameId": "Scordion Bleu Pimenté"
+}, {
+    "id": 4667,
+    "nameId": "Ali Babaorom"
+}, {
+    "id": 4668,
+    "nameId": "Marcel Lupin"
+}, {
+    "id": 4669,
+    "nameId": "Bill Ikid"
+}, {
+    "id": 4670,
+    "nameId": "Johny Linger"
+}, {
+    "id": 4671,
+    "nameId": "Jeanne Calamité"
+}, {
+    "id": 4672,
+    "nameId": "Louis Malandrin"
+}, {
+    "id": 4673,
+    "nameId": "Caisse de pommes"
+}, {
+    "id": 4674,
+    "nameId": "Immortano Piko"
+}, {
+    "id": 4675,
+    "nameId": "Max le Fou"
+}, {
+    "id": 4688,
+    "nameId": "Ancien Cactana"
+}, {
+    "id": 4689,
+    "nameId": "Érudit Cactoblongo"
+}, {
+    "id": 4690,
+    "nameId": "Jeune Pampactus"
+}, {
+    "id": 4691,
+    "nameId": "Dobby Gleux"
+}, {
+    "id": 4699,
+    "nameId": "Fennex affamé"
+}, {
+    "id": 4709,
+    "nameId": "Mayko Zouzoo"
+}, {
+    "id": 4710,
+    "nameId": "Léolhyène Enragée"
+}, {
+    "id": 4726,
+    "nameId": "Père Ver"
+}, {
+    "id": 4727,
+    "nameId": "Pikténia"
+}, {
+    "id": 4728,
+    "nameId": "Trémorse"
+}, {
+    "id": 4729,
+    "nameId": "Masticroc"
+}, {
+    "id": 4730,
+    "nameId": "Morsquale"
+}, {
+    "id": 4731,
+    "nameId": "Cycloporth"
+}, {
+    "id": 4734,
+    "nameId": "Khepricorne"
+}, {
+    "id": 4735,
+    "nameId": "Boule Puante"
+}, {
+    "id": 4736,
+    "nameId": "Boulette Puante"
+}, {
+    "id": 4739,
+    "nameId": "Chakanoubis"
+}, {
+    "id": 4740,
+    "nameId": "Bandleth"
+}, {
+    "id": 4741,
+    "nameId": "Momistik"
+}, {
+    "id": 4742,
+    "nameId": "Rykaon"
+}, {
+    "id": 4743,
+    "nameId": "Griffotep"
+}, {
+    "id": 4744,
+    "nameId": "Tal Kasha"
+}, {
+    "id": 4759,
+    "nameId": "Lapino protecteur"
+}, {
+    "id": 4768,
+    "nameId": "Dégelée d'Ahon"
+}, {
+    "id": 4771,
+    "nameId": "Zigg"
+}, {
+    "id": 4772,
+    "nameId": "Pic des Sables"
+}, {
+    "id": 4776,
+    "nameId": "Roquet"
+}, {
+    "id": 4777,
+    "nameId": "Dopeul Ouginak"
+}, {
+    "id": 4803,
+    "nameId": "Comte Razof"
+}, {
+    "id": 4804,
+    "nameId": "Viandargh"
+}, {
+    "id": 4805,
+    "nameId": "Chevrotine"
+}, {
+    "id": 4806,
+    "nameId": "Brokouillon"
+}, {
+    "id": 4807,
+    "nameId": "Nemroz"
+}, {
+    "id": 4808,
+    "nameId": "Crâmbo"
+}, {
+    "id": 4813,
+    "nameId": "Kolérat invoqué"
+}, {
+    "id": 4814,
+    "nameId": "Simbadas"
+}, {
+    "id": 4815,
+    "nameId": "Carlita de l'Aguerfelde"
+}, {
+    "id": 4816,
+    "nameId": "Shushu Debruk'Sayl"
+}, {
+    "id": 4817,
+    "nameId": "Araknosé"
+}, {
+    "id": 4818,
+    "nameId": "Arakmuté"
+}, {
+    "id": 4819,
+    "nameId": "Campagnoll"
+}, {
+    "id": 4820,
+    "nameId": "Épouvanteur"
+}, {
+    "id": 4821,
+    "nameId": "Gardienne Champêtre"
+}, {
+    "id": 4822,
+    "nameId": "Bouftou Noir"
+}, {
+    "id": 4823,
+    "nameId": "Écurouille"
+}, {
+    "id": 4824,
+    "nameId": "Tofu Mutant"
+}, {
+    "id": 4825,
+    "nameId": "Guerrier Mental"
+}, {
+    "id": 4830,
+    "nameId": "Rat Luisant"
+}, {
+    "id": 4831,
+    "nameId": "Dragodinde Fiévreuse Sauvage"
+}, {
+    "id": 4833,
+    "nameId": "Arakne Olithique"
+}, {
+    "id": 4834,
+    "nameId": "Predagob"
+}, {
+    "id": 4837,
+    "nameId": "Léo Truche"
+}, {
+    "id": 4838,
+    "nameId": "Tcha Chacha"
+}, {
+    "id": 4855,
+    "nameId": "Raymond Bar"
+}, {
+    "id": 4856,
+    "nameId": "Crâmbo Découvert"
+}, {
+    "id": 4857,
+    "nameId": "Nemroz Découvert"
+}, {
+    "id": 4860,
+    "nameId": "Choudini"
+}, {
+    "id": 4861,
+    "nameId": "Bozoteur"
+}, {
+    "id": 4862,
+    "nameId": "Tivelo"
+}, {
+    "id": 4863,
+    "nameId": "Pirolienne"
+}, {
+    "id": 4864,
+    "nameId": "Roukouto"
+}, {
+    "id": 4865,
+    "nameId": "Graboule"
+}, {
+    "id": 4866,
+    "nameId": "Muloubard"
+}, {
+    "id": 4867,
+    "nameId": "Cocholou"
+}, {
+    "id": 4868,
+    "nameId": "Mulounoké"
+}, {
+    "id": 4869,
+    "nameId": "Mergranlou"
+}, {
+    "id": 4870,
+    "nameId": "Milimeulou"
+}, {
+    "id": 4871,
+    "nameId": "Flammèche Fumeuse"
+}, {
+    "id": 4872,
+    "nameId": "Flammèche Aqueuse"
+}, {
+    "id": 4873,
+    "nameId": "Flammèche Terreuse"
+}, {
+    "id": 4874,
+    "nameId": "Flammèche Venteuse"
+}, {
+    "id": 4875,
+    "nameId": "Kolérat d'Égoutant"
+}, {
+    "id": 4877,
+    "nameId": "Goulafre"
+}, {
+    "id": 4878,
+    "nameId": "Kérigoule"
+}, {
+    "id": 4879,
+    "nameId": "Gouligane"
+}, {
+    "id": 4880,
+    "nameId": "Goultime"
+}, {
+    "id": 4881,
+    "nameId": "Pipisteuse"
+}, {
+    "id": 4882,
+    "nameId": "Anerice la Shushess"
+}, {
+    "id": 4883,
+    "nameId": "Bwork Mercenaire"
+}, {
+    "id": 4884,
+    "nameId": "Jeune pousse Ardente"
+}, {
+    "id": 4885,
+    "nameId": "Jeune pousse Givrée"
+}, {
+    "id": 4886,
+    "nameId": "Sectateur"
+}, {
+    "id": 4887,
+    "nameId": "Shushu Rav"
+}, {
+    "id": 4888,
+    "nameId": "Trouble-fête Lancier"
+}, {
+    "id": 4889,
+    "nameId": "Trouble-fête Archer"
+}, {
+    "id": 4890,
+    "nameId": "Trouble-fête d'Élite"
+}, {
+    "id": 4891,
+    "nameId": "Trouble-fête Draugr"
+}, {
+    "id": 4892,
+    "nameId": "Fantôme Amer"
+}, {
+    "id": 4893,
+    "nameId": "Vampire Omane"
+}, {
+    "id": 4894,
+    "nameId": "Mawtwa"
+}, {
+    "id": 4895,
+    "nameId": "Afrèz"
+}, {
+    "id": 4896,
+    "nameId": "Ganfalda"
+}, {
+    "id": 4897,
+    "nameId": "Gerbère"
+}, {
+    "id": 4898,
+    "nameId": "Luis Gore"
+}, {
+    "id": 4899,
+    "nameId": "Fournaise du Volcan"
+}, {
+    "id": 4900,
+    "nameId": "Avatar Champignon Surru"
+}, {
+    "id": 4906,
+    "nameId": "Esprit Torturé"
+}, {
+    "id": 4925,
+    "nameId": "Champ à Gnons Belliqueux"
+}, {
+    "id": 4926,
+    "nameId": "Riddie Kull"
+}, {
+    "id": 4935,
+    "nameId": "Garde des Sorbets"
+}, {
+    "id": 4936,
+    "nameId": "Garde des Sorbets"
+}, {
+    "id": 4937,
+    "nameId": "Risa Gregory"
+}, {
+    "id": 4938,
+    "nameId": "Moctar Chitekt"
+}, {
+    "id": 4941,
+    "nameId": "Russule Bleue"
+}, {
+    "id": 4942,
+    "nameId": "Russule Verte"
+}, {
+    "id": 4943,
+    "nameId": "Russule Marron"
+}, {
+    "id": 4944,
+    "nameId": "Russule Rouge"
+}, {
+    "id": 4946,
+    "nameId": "Rainikrone"
+}, {
+    "id": 4947,
+    "nameId": "Minikrone"
+}, {
+    "id": 4949,
+    "nameId": "Jérart Dupaindur"
+}, {
+    "id": 4950,
+    "nameId": "Bouteille de Pandabsynthe"
+}, {
+    "id": 4953,
+    "nameId": "Le Fantôme Braïdeur"
+}, {
+    "id": 4955,
+    "nameId": "Profaigri"
+}, {
+    "id": 4956,
+    "nameId": "Rogr"
+}, {
+    "id": 4957,
+    "nameId": "Mallepierre"
+}, {
+    "id": 4958,
+    "nameId": "Skav"
+}, {
+    "id": 4960,
+    "nameId": "Captain Chafer"
+}, {
+    "id": 4962,
+    "nameId": "Âme Asservie"
+}, {
+    "id": 4964,
+    "nameId": "Mohl-Os"
+}, {
+    "id": 4965,
+    "nameId": "Chafer des Vieux-Os"
+}, {
+    "id": 4966,
+    "nameId": "Lézoh Surlapo"
+}, {
+    "id": 4967,
+    "nameId": "Ilyzaelle"
+}, {
+    "id": 4968,
+    "nameId": "Chause"
+}, {
+    "id": 4969,
+    "nameId": "Ectorche"
+}, {
+    "id": 4970,
+    "nameId": "Esprigné"
+}, {
+    "id": 4971,
+    "nameId": "Feutôme"
+}, {
+    "id": 4972,
+    "nameId": "Crâme"
+}, {
+    "id": 4974,
+    "nameId": "Hyrkul"
+}, {
+    "id": 5007,
+    "nameId": "Adagra Fiste"
+}, {
+    "id": 5008,
+    "nameId": "Trukikol Kollant"
+}, {
+    "id": 5009,
+    "nameId": "Trukipu"
+}, {
+    "id": 5010,
+    "nameId": "Huguette Rhon"
+}, {
+    "id": 5011,
+    "nameId": "Sefu Myé"
+}, {
+    "id": 5012,
+    "nameId": "Fée Khale"
+}, {
+    "id": 5019,
+    "nameId": "Esprit tourmenté"
+}, {
+    "id": 5021,
+    "nameId": "Horib"
+}, {
+    "id": 5024,
+    "nameId": "Seigneur Seisde"
+}, {
+    "id": 5025,
+    "nameId": "Comte Ess"
+}, {
+    "id": 5026,
+    "nameId": "Konkass"
+}, {
+    "id": 5027,
+    "nameId": "Tête d’Os"
+}, {
+    "id": 5028,
+    "nameId": "Ossendre"
+}, {
+    "id": 5029,
+    "nameId": "Krémasse"
+}, {
+    "id": 5030,
+    "nameId": "Ribfou"
+}, {
+    "id": 5031,
+    "nameId": "Phylactère d'Hyrkul"
+}, {
+    "id": 5043,
+    "nameId": "Puits de Sang"
+}, {
+    "id": 5050,
+    "nameId": "Gardien du Trésor"
+}, {
+    "id": 5051,
+    "nameId": "Vieux Chafer Archer"
+}, {
+    "id": 5052,
+    "nameId": "Vieux Chafer d'Élite"
+}, {
+    "id": 5053,
+    "nameId": "Vieux Chafer Draugr"
+}, {
+    "id": 5054,
+    "nameId": "Vieux Chafer Fantassin"
+}, {
+    "id": 5055,
+    "nameId": "Vieux Chafer Invisible"
+}, {
+    "id": 5056,
+    "nameId": "Vieux Chafer Lancier"
+}, {
+    "id": 5057,
+    "nameId": "Vieux Chafer Primitif"
+}, {
+    "id": 5058,
+    "nameId": "Offrande"
+}, {
+    "id": 5059,
+    "nameId": "Palégère"
+}, {
+    "id": 5060,
+    "nameId": "Pêcheur Ricanif"
+}, {
+    "id": 5061,
+    "nameId": "Pêcheur Canondorf"
+}, {
+    "id": 5064,
+    "nameId": "Flamme Purificatrice"
+}, {
+    "id": 5065,
+    "nameId": "Chafer Archer Vétéran"
+}, {
+    "id": 5066,
+    "nameId": "Chafer d'Élite Vétéran"
+}, {
+    "id": 5067,
+    "nameId": "Chafer Lancier Vétéran"
+}, {
+    "id": 5068,
+    "nameId": "Rib Vétéran"
+}, {
+    "id": 5069,
+    "nameId": "Boule Sentinelle"
+}, {
+    "id": 5070,
+    "nameId": "Boule Surveillante"
+}, {
+    "id": 5071,
+    "nameId": "Tourelle Sentinelle"
+}, {
+    "id": 5072,
+    "nameId": "Tourelle Surveillante"
+}, {
+    "id": 5073,
+    "nameId": "Gobrechaun"
+}, {
+    "id": 5074,
+    "nameId": "Vashkiwi"
+}, {
+    "id": 5075,
+    "nameId": "Fontaine Laiteuse"
+}, {
+    "id": 5076,
+    "nameId": "Darma"
+}, {
+    "id": 5077,
+    "nameId": "Mogligli"
+}, {
+    "id": 5078,
+    "nameId": "Bagarra"
+}, {
+    "id": 5079,
+    "nameId": "Balours"
+}, {
+    "id": 5080,
+    "nameId": "Mulibre"
+}, {
+    "id": 5081,
+    "nameId": "Glandaf l’Aigri"
+}, {
+    "id": 5082,
+    "nameId": "Arbre sinistre"
+}, {
+    "id": 5083,
+    "nameId": "Crasper"
+}, {
+    "id": 5084,
+    "nameId": "Carter le Pillard"
+}, {
+    "id": 5085,
+    "nameId": "Champignon de Carter"
+}, {
+    "id": 5086,
+    "nameId": "Sans Visage"
+}, {
+    "id": 5095,
+    "nameId": "Tsugrumo"
+}, {
+    "id": 5097,
+    "nameId": "Bak"
+}, {
+    "id": 5098,
+    "nameId": "Balise de Rappel"
+}, {
+    "id": 5099,
+    "nameId": "Balise Tactique"
+}, {
+    "id": 5100,
+    "nameId": "Solar"
+}, {
+    "id": 5101,
+    "nameId": "Klémort"
+}, {
+    "id": 5102,
+    "nameId": "Trépavois"
+}, {
+    "id": 5103,
+    "nameId": "Hacharné"
+}, {
+    "id": 5104,
+    "nameId": "Moribombe"
+}, {
+    "id": 5105,
+    "nameId": "Halbardent"
+}, {
+    "id": 5106,
+    "nameId": "Bandit Manché"
+}, {
+    "id": 5107,
+    "nameId": "Chaton Guérisseur"
+}, {
+    "id": 5108,
+    "nameId": "Roulette"
+}, {
+    "id": 5109,
+    "nameId": "Totem Eliotrope"
+}, {
+    "id": 5110,
+    "nameId": "Bethel Akarna"
+}, {
+    "id": 5111,
+    "nameId": "Zombruth"
+}, {
+    "id": 5112,
+    "nameId": "Tournoyé"
+}, {
+    "id": 5113,
+    "nameId": "Funespadon"
+}, {
+    "id": 5114,
+    "nameId": "Crânonier"
+}, {
+    "id": 5115,
+    "nameId": "Macrab"
+}, {
+    "id": 5116,
+    "nameId": "Fiole"
+}, {
+    "id": 5117,
+    "nameId": "Guerrier Calciné"
+}, {
+    "id": 5118,
+    "nameId": "Lancier Noyé"
+}, {
+    "id": 5119,
+    "nameId": "Sentinelle Sacrifiée"
+}, {
+    "id": 5120,
+    "nameId": "Amas de Tentacules"
+}, {
+    "id": 5121,
+    "nameId": "Monolithe"
+}, {
+    "id": 5122,
+    "nameId": "Dagon des Profondeurs"
+}, {
+    "id": 5123,
+    "nameId": "Dagon Insoumis"
+}, {
+    "id": 5124,
+    "nameId": "Amas de Tentacules Vaporeux"
+}, {
+    "id": 5125,
+    "nameId": "Musette Animée"
+}, {
+    "id": 5126,
+    "nameId": "Bêche Animée"
+}, {
+    "id": 5128,
+    "nameId": "Égide"
+}, {
+    "id": 5129,
+    "nameId": "Gardien Élémentaire"
+}, {
+    "id": 5130,
+    "nameId": "Stratège Iop"
+}, {
+    "id": 5131,
+    "nameId": "Tofu Albinos"
+}, {
+    "id": 5132,
+    "nameId": "Boufton"
+}, {
+    "id": 5133,
+    "nameId": "Dragonnet Albinos"
+}, {
+    "id": 5134,
+    "nameId": "Crapaud Noir"
+}, {
+    "id": 5135,
+    "nameId": "Crapaud Albinos"
+}, {
+    "id": 5136,
+    "nameId": "Crapaud Baveux"
+}, {
+    "id": 5141,
+    "nameId": "Chalutier"
+}, {
+    "id": 5142,
+    "nameId": "Foreuse"
+}, {
+    "id": 5143,
+    "nameId": "Bathyscaphe"
+}, {
+    "id": 5149,
+    "nameId": "Meneur Macrab"
+}, {
+    "id": 5152,
+    "nameId": "Masque Grimaçant"
+}, {
+    "id": 5162,
+    "nameId": "Bombe Ambulante"
+}, {
+    "id": 5163,
+    "nameId": "Mégabombe"
+}, {
+    "id": 5189,
+    "nameId": "Roulette"
+}, {
+    "id": 5202,
+    "nameId": "Sentinelle Sacrifiée"
+}, {
+    "id": 5219,
+    "nameId": "Arakne Poilue"
+}, {
+    "id": 5220,
+    "nameId": "Vilain Petit Tofu Agressif"
+}, {
+    "id": 5221,
+    "nameId": "Tofubine Agressive"
+}, {
+    "id": 5222,
+    "nameId": "Tofu Agressif"
+}, {
+    "id": 5223,
+    "nameId": "Tofu Noir Agressif"
+}, {
+    "id": 5224,
+    "nameId": "Tofoune Agressive"
+}, {
+    "id": 5225,
+    "nameId": "Larve Jaune"
+}, {
+    "id": 5227,
+    "nameId": "Garglyphe"
+}, {
+    "id": 5228,
+    "nameId": "Martoa"
+}, {
+    "id": 5229,
+    "nameId": "Sherpoa"
+}, {
+    "id": 5230,
+    "nameId": "Douzdoa"
+}, {
+    "id": 5231,
+    "nameId": "Pikdoa"
+}, {
+    "id": 5279,
+    "nameId": "Scélérat Famélique"
+}, {
+    "id": 5281,
+    "nameId": "Ramane Famélique"
+}, {
+    "id": 5296,
+    "nameId": "Sousouris"
+}, {
+    "id": 5314,
+    "nameId": "Tanklume"
+}, {
+    "id": 5315,
+    "nameId": "Boufbos"
+}, {
+    "id": 5316,
+    "nameId": "Barbélier"
+}, {
+    "id": 5317,
+    "nameId": "Kasrok"
+}, {
+    "id": 5318,
+    "nameId": "Vatenbière"
+}, {
+    "id": 5319,
+    "nameId": "Dazak Martegel"
+}, {
+    "id": 5372,
+    "nameId": "Pavois"
+}, {
+    "id": 5377,
+    "nameId": "Malice"
+}, {
+    "id": 5382,
+    "nameId": "Pion Noir"
+}, {
+    "id": 5440,
+    "nameId": "Roulette Défectueuse"
+}, {
+    "id": 5472,
+    "nameId": "Glutin Colérique"
+}, {
+    "id": 5473,
+    "nameId": "Glutin Acariâtre"
+}, {
+    "id": 5474,
+    "nameId": "Glutin Morose"
+}, {
+    "id": 5475,
+    "nameId": "Glutin Boudeur"
+}, {
+    "id": 5476,
+    "nameId": "Gronchon"
+}, {
+    "id": 5493,
+    "nameId": "Coquille Explosive"
+}, {
+    "id": 5494,
+    "nameId": "Coquille Explosive"
+}, {
+    "id": 5495,
+    "nameId": "Flammèche Terre"
+}, {
+    "id": 5496,
+    "nameId": "Flammèche Feu"
+}, {
+    "id": 5497,
+    "nameId": "Flammèche Eau"
+}, {
+    "id": 5498,
+    "nameId": "Flammèche Air"
+}, {
+    "id": 5500,
+    "nameId": "Pandawa Ivre"
+}, {
+    "id": 5501,
+    "nameId": "Pandalette Ivre"
+}, {
+    "id": 5504,
+    "nameId": "Pilier Indécis"
+}, {
+    "id": 5505,
+    "nameId": "Pilier Réfléchissant"
+}, {
+    "id": 5506,
+    "nameId": "Pilier Rejeté"
+}, {
+    "id": 5507,
+    "nameId": "Pilier Attrayant"
+}, {
+    "id": 5508,
+    "nameId": "Totem de l'Indécision"
+}, {
+    "id": 5509,
+    "nameId": "Curseur"
+}, {
+    "id": 5510,
+    "nameId": "Totem du Reflet"
+}, {
+    "id": 5511,
+    "nameId": "Curseur"
+}, {
+    "id": 5512,
+    "nameId": "Totem du Rejet"
+}, {
+    "id": 5513,
+    "nameId": "Curseur"
+}, {
+    "id": 5514,
+    "nameId": "Totem de l'Attirance"
+}, {
+    "id": 5515,
+    "nameId": "Curseur"
+}, {
+    "id": 5516,
+    "nameId": "Crocoburio"
+}, {
+    "id": 5519,
+    "nameId": "Crocoburio"
+}, {
+    "id": 5637,
+    "nameId": "Dofus Ébène"
+}, {
+    "id": 5646,
+    "nameId": "Petit Gloot Marécageux"
+}, {
+    "id": 5647,
+    "nameId": "Larmichette de l'ogre"
+}, {
+    "id": 5663,
+    "nameId": "Julith"
+}, {
+    "id": 5664,
+    "nameId": "Croqueleur"
+}, {
+    "id": 5665,
+    "nameId": "Pépite du Croqueleur"
+}, {
+    "id": 5666,
+    "nameId": "Prêtresse de Kao"
+}, {
+    "id": 5667,
+    "nameId": "Éclat Kao"
+}, {
+    "id": 5668,
+    "nameId": "Chocoligarque"
+}, {
+    "id": 5669,
+    "nameId": "Torréfactueur"
+}, {
+    "id": 5670,
+    "nameId": "Pralicienne"
+}, {
+    "id": 5671,
+    "nameId": "Températurge"
+}, {
+    "id": 5672,
+    "nameId": "Cabosseur"
+}, {
+    "id": 5673,
+    "nameId": "Dathura"
+}, {
+    "id": 5674,
+    "nameId": "Bourgeon de Dathura"
+}, {
+    "id": 5676,
+    "nameId": "Pépite croquante"
+}, {
+    "id": 5677,
+    "nameId": "Kakoalak"
+}, {
+    "id": 5678,
+    "nameId": "Mansocolat"
+}, {
+    "id": 5679,
+    "nameId": "Glourson Guimauve"
+}, {
+    "id": 5680,
+    "nameId": "Chocoskargo"
+}, {
+    "id": 5681,
+    "nameId": "Kwakao"
+}, {
+    "id": 5682,
+    "nameId": "Corbeau Noir"
+}, {
+    "id": 5683,
+    "nameId": "Larve de Rushu"
+}, {
+    "id": 5684,
+    "nameId": "Agonie la Déterrée"
+}, {
+    "id": 5685,
+    "nameId": "Cristal Malakite"
+}, {
+    "id": 5686,
+    "nameId": "Golem Malakite"
+}, {
+    "id": 5687,
+    "nameId": "Percimol"
+}, {
+    "id": 5688,
+    "nameId": "Léorictus le Roi Grimaçant"
+}, {
+    "id": 5689,
+    "nameId": "Wadnozéam"
+}, {
+    "id": 5690,
+    "nameId": "Waccro"
+}, {
+    "id": 5691,
+    "nameId": "Warkaïk"
+}, {
+    "id": 5692,
+    "nameId": "Wadulant"
+}, {
+    "id": 5693,
+    "nameId": "Djonz"
+}, {
+    "id": 5694,
+    "nameId": "Kadillak"
+}, {
+    "id": 5696,
+    "nameId": "Nerbe du village"
+}, {
+    "id": 5697,
+    "nameId": "Chiendent du village"
+}, {
+    "id": 5698,
+    "nameId": "Abrakleur Sombre du village"
+}, {
+    "id": 5699,
+    "nameId": "Bitouf Sombre du village"
+}, {
+    "id": 5700,
+    "nameId": "Brouture du village"
+}, {
+    "id": 5701,
+    "nameId": "Floribonde du village"
+}, {
+    "id": 5702,
+    "nameId": "Fécorce du village"
+}, {
+    "id": 5703,
+    "nameId": "Kilibriss du laboratoire"
+}, {
+    "id": 5704,
+    "nameId": "Bitouf des Plaines du laboratoire"
+}, {
+    "id": 5705,
+    "nameId": "Craqueboule Poli du laboratoire"
+}, {
+    "id": 5706,
+    "nameId": "Craqueleur Poli du laboratoire"
+}, {
+    "id": 5707,
+    "nameId": "Kido du laboratoire"
+}, {
+    "id": 5708,
+    "nameId": "Mufafah du laboratoire"
+}, {
+    "id": 5714,
+    "nameId": "Bruto Acharné"
+}, {
+    "id": 5715,
+    "nameId": "Bruto Virulent"
+}, {
+    "id": 5716,
+    "nameId": "Bruto Pernicieux"
+}, {
+    "id": 5717,
+    "nameId": "Bruto Frénétique"
+}, {
+    "id": 5718,
+    "nameId": "Bruto Colérique"
+}, {
+    "id": 5719,
+    "nameId": "Briko Taquin"
+}, {
+    "id": 5720,
+    "nameId": "Briko Stimulant"
+}, {
+    "id": 5721,
+    "nameId": "Briko Altruiste"
+}, {
+    "id": 5722,
+    "nameId": "Briko Galvanisant"
+}, {
+    "id": 5723,
+    "nameId": "Briko Exaltant"
+}, {
+    "id": 5726,
+    "nameId": "Intercepteur"
+}, {
+    "id": 5728,
+    "nameId": "Garde de Pwâk"
+}, {
+    "id": 5729,
+    "nameId": "Shokipik"
+}, {
+    "id": 5730,
+    "nameId": "Chef Waddict"
+}, {
+    "id": 5731,
+    "nameId": "Œuf de Pwâk"
+}, {
+    "id": 5732,
+    "nameId": "Œuf de Pwâk"
+}, {
+    "id": 5733,
+    "nameId": "Œuf de Pwâk"
+}, {
+    "id": 5734,
+    "nameId": "Œuf de Pwâk"
+}, {
+    "id": 5735,
+    "nameId": "Œuf de Pwâk"
+}, {
+    "id": 5736,
+    "nameId": "Œuf de Pwâk"
+}, {
+    "id": 5737,
+    "nameId": "Œuf de Pwâk"
+}, {
+    "id": 5738,
+    "nameId": "Œuf de Pwâk"
+}, {
+    "id": 5739,
+    "nameId": "Œuf de Pwâk"
+}, {
+    "id": 5740,
+    "nameId": "Œuf de Pwâk"
+}, {
+    "id": 5741,
+    "nameId": "Œuf de Pwâk"
+}, {
+    "id": 5742,
+    "nameId": "Œuf de Pwâk"
+}, {
+    "id": 5743,
+    "nameId": "Œuf de Pwâk"
+}, {
+    "id": 5744,
+    "nameId": "Œuf de Pwâk"
+}, {
+    "id": 5745,
+    "nameId": "Œuf de Pwâk"
+}, {
+    "id": 5746,
+    "nameId": "Œuf de Pwâk"
+}, {
+    "id": 5747,
+    "nameId": "Œuf de Pwâk"
+}, {
+    "id": 5748,
+    "nameId": "Œuf de Pwâk"
+}, {
+    "id": 5755,
+    "nameId": "Shuccube"
+}, {
+    "id": 5756,
+    "nameId": "Œuf de Pwâk doré"
+}, {
+    "id": 5757,
+    "nameId": "Œuf de Pwâk doré"
+}, {
+    "id": 5758,
+    "nameId": "Œuf de Pwâk doré"
+}, {
+    "id": 5759,
+    "nameId": "Œuf de Pwâk doré"
+}, {
+    "id": 5763,
+    "nameId": "Ondine"
+}, {
+    "id": 5781,
+    "nameId": "Noximilien l'Horloger"
+}, {
+    "id": 5789,
+    "nameId": "Tofu Mélanique"
+}, {
+    "id": 5790,
+    "nameId": "Tofu Albinos"
+}, {
+    "id": 5791,
+    "nameId": "Tofu Doré"
+}, {
+    "id": 5792,
+    "nameId": "Crapaud Mélanique"
+}, {
+    "id": 5793,
+    "nameId": "Crapaud Verdoyant"
+}, {
+    "id": 5794,
+    "nameId": "Crapaud Albinos"
+}, {
+    "id": 5795,
+    "nameId": "Bouftou Mélanique"
+}, {
+    "id": 5797,
+    "nameId": "Bouftou Albinos"
+}, {
+    "id": 5798,
+    "nameId": "Dragonnet Rouge"
+}, {
+    "id": 5799,
+    "nameId": "Dragonnet Mélanique"
+}, {
+    "id": 5800,
+    "nameId": "Dragonnet Albinos"
+}, {
+    "id": 5804,
+    "nameId": "Dragacé"
+}, {
+    "id": 5805,
+    "nameId": "Dragmatique"
+}, {
+    "id": 5806,
+    "nameId": "Torkélonia"
+}, {
+    "id": 5807,
+    "nameId": "Kashkaille"
+}, {
+    "id": 5808,
+    "nameId": "Voapah"
+}, {
+    "id": 5809,
+    "nameId": "Caïguille"
+}, {
+    "id": 5810,
+    "nameId": "Alashasss"
+}, {
+    "id": 5811,
+    "nameId": "Cronnibal"
+}, {
+    "id": 5812,
+    "nameId": "Lunorbe"
+}, {
+    "id": 5813,
+    "nameId": "Informo"
+}, {
+    "id": 5814,
+    "nameId": "__PREVISUALISATION"
+}, {
+    "id": 5819,
+    "nameId": "Kharnozor"
+}, {
+    "id": 5820,
+    "nameId": "Dragoss Protéiforme"
+}, {
+    "id": 5822,
+    "nameId": "Dragoeuf Albâtre"
+}, {
+    "id": 5823,
+    "nameId": "Draegnerys"
+}, {
+    "id": 5824,
+    "nameId": "Épée de Dard Saignant"
+}, {
+    "id": 5826,
+    "nameId": "Disciple du Mangeur de chair"
+}, {
+    "id": 5827,
+    "nameId": "Disciple du Mangeur de chair"
+}, {
+    "id": 5828,
+    "nameId": "Crokalcrolak"
+}, {
+    "id": 5831,
+    "nameId": "Bathyscaphe"
+}, {
+    "id": 5832,
+    "nameId": "Chalutier"
+}, {
+    "id": 5833,
+    "nameId": "Foreuse"
+}, {
+    "id": 5838,
+    "nameId": "Musette Animée"
+}, {
+    "id": 5841,
+    "nameId": "Bêche Animée"
+}, {
+    "id": 5846,
+    "nameId": "Bambou"
+}, {
+    "id": 5848,
+    "nameId": "Chaton Guérisseur"
+}, {
+    "id": 5849,
+    "nameId": "Roulette"
+}, {
+    "id": 5850,
+    "nameId": "Roulette"
+}, {
+    "id": 5851,
+    "nameId": "Alashasss sanguinaire"
+}, {
+    "id": 5852,
+    "nameId": "Caïguille sanguinaire"
+}, {
+    "id": 5853,
+    "nameId": "Coconíbal sanguinario"
+}, {
+    "id": 5854,
+    "nameId": "Noveh sanguinario"
+}, {
+    "id": 5855,
+    "nameId": "Cazadrail"
+}, {
+    "id": 5856,
+    "nameId": "Caimaguja"
+}, {
+    "id": 5857,
+    "nameId": "Noveh"
+}, {
+    "id": 5862,
+    "nameId": "Octolito"
+}, {
+    "id": 5864,
+    "nameId": "Sapomorros albino"
+}, {
+    "id": 5865,
+    "nameId": "Gozque"
+}, {
+    "id": 5866,
+    "nameId": "Tylezia"
+}, {
+    "id": 5903,
+    "nameId": "Égida"
+}, {
+    "id": 5905,
+    "nameId": "Cunejo protector"
+}, {
+    "id": 5906,
+    "nameId": "Frasco"
+}, {
+    "id": 5907,
+    "nameId": "Baliza de recuerdo"
+}, {
+    "id": 5908,
+    "nameId": "Baliza táctica"
+}, {
+    "id": 5910,
+    "nameId": "Pavés"
+}]
