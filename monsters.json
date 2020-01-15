@@ -1,90 +1,90 @@
 [{
     "id": 31,
-    "nameId": "Larve Bleue"
+    "nameId": "larva azul"
 }, {
     "id": 34,
-    "nameId": "Larve Verte"
+    "nameId": "Larva verde"
 }, {
     "id": 46,
-    "nameId": "Larve Orange"
+    "nameId": "Larva naranja"
 }, {
     "id": 47,
-    "nameId": "Abraknyde"
+    "nameId": "Abráknido"
 }, {
     "id": 48,
-    "nameId": "Tournesol Sauvage"
+    "nameId": "Girasol salvaje"
 }, {
     "id": 52,
-    "nameId": "Arakne"
+    "nameId": "Arakna"
 }, {
     "id": 53,
-    "nameId": "Bwork Mage"
+    "nameId": "Bwork mago"
 }, {
     "id": 54,
     "nameId": "Chafer"
 }, {
     "id": 55,
-    "nameId": "Gelée Bleue"
+    "nameId": "Gelatina azul"
 }, {
     "id": 56,
-    "nameId": "Gelée Menthe"
+    "nameId": "Gelatina de menta"
 }, {
     "id": 57,
-    "nameId": "Gelée Fraise"
+    "nameId": "Gelatina de fresa"
 }, {
     "id": 58,
-    "nameId": "Gelée Royale Bleue"
+    "nameId": "Gelatina real azul"
 }, {
     "id": 59,
-    "nameId": "Champ Champ"
+    "nameId": "Champi champ"
 }, {
     "id": 61,
     "nameId": "Moskito"
 }, {
     "id": 62,
-    "nameId": "Chevaucheur de Karne"
+    "nameId": "Cabalgador de karne"
 }, {
     "id": 63,
-    "nameId": "Crabe"
+    "nameId": "Cangrejo"
 }, {
     "id": 64,
     "nameId": "Wabbit"
 }, {
     "id": 65,
-    "nameId": "Black Wabbit"
+    "nameId": "Black wabbit"
 }, {
     "id": 68,
-    "nameId": "Black Tiwabbit"
+    "nameId": "Black pekewabbit"
 }, {
     "id": 72,
-    "nameId": "Tiwabbit Kiafin"
+    "nameId": "Pekewabbit hambriento"
 }, {
     "id": 74,
-    "nameId": "Bwork Archer"
+    "nameId": "Bwork arquero"
 }, {
     "id": 75,
-    "nameId": "Dragoeuf Argile"
+    "nameId": "Dragohuevo arcilloso invocado"
 }, {
     "id": 76,
-    "nameId": "Dragoeuf Calcaire"
+    "nameId": "Dragohuevo calizo"
 }, {
     "id": 78,
-    "nameId": "Rose Démoniaque"
+    "nameId": "Rosa demoníaca"
 }, {
     "id": 79,
-    "nameId": "Pissenlit Diabolique"
+    "nameId": "Diente de león diabólico"
 }, {
     "id": 81,
-    "nameId": "Kwak de Vent"
+    "nameId": "kwak de viento"
 }, {
     "id": 82,
-    "nameId": "Dragoeuf Charbon"
+    "nameId": "Dragohuevo carbonoso invocado"
 }, {
     "id": 83,
-    "nameId": "Kwak de Flamme"
+    "nameId": "kwak de llamas"
 }, {
     "id": 84,
-    "nameId": "Kwak de Glace"
+    "nameId": "kwak de hielo"
 }, {
     "id": 85,
     "nameId": "Gelée Royale Menthe"
